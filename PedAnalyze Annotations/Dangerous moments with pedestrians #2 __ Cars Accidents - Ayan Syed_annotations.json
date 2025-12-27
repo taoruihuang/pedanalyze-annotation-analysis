@@ -1,0 +1,319 @@
+{
+  "name": "Dangerous moments with pedestrians #2 || Cars Accidents - Ayan Syed",
+  "fps": 30,
+  "video_path": "https://www.youtube.com/watch?v=nBZkAwSOwVY",
+  "numberOfSingleFrameAnnotations": 0,
+  "numberOfMultiFrameAnnotations": 11,
+  "multiFrameAnnotations": [
+    {
+      "frameStart": 0,
+      "frameEnd": 850,
+      "pedTags": [
+        "run-into-traffic",
+        "cross",
+        "cross-without-crosswalk",
+        "ignore-traffic",
+        "not-looking-glancing",
+        "near-miss"
+      ],
+      "egoTags": [
+        "aggressive-brake",
+        "halt"
+      ],
+      "sceneTags": [
+        "day",
+        "none",
+        "one-way",
+        "two-way",
+        "no-crosswalk",
+        "occluded-pedestrian"
+      ],
+      "archetypeTags": [],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 880,
+      "frameEnd": 1100,
+      "pedTags": [
+        "near-miss",
+        "preoccupied",
+        "cross",
+        "cross-without-crosswalk",
+        "pop-out-occlusion",
+        "ignore-traffic",
+        "not-looking-glancing",
+        "fixated-not-at-incoming-vehicle"
+      ],
+      "egoTags": [
+        "aggressive-brake",
+        "halt"
+      ],
+      "sceneTags": [
+        "day",
+        "red",
+        "occluded-pedestrian",
+        "foggy",
+        "light",
+        "one-way",
+        "two-way",
+        "cloudy"
+      ],
+      "archetypeTags": [
+        "indecisive",
+        "wanderer",
+        "jaywalker",
+        "blind"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 1130,
+      "frameEnd": 1450,
+      "pedTags": [
+        "along-lane",
+        "not-looking-glancing",
+        "fixated-not-at-incoming-vehicle",
+        "not-cross",
+        "back-turned",
+        "ignore-traffic",
+        "brisk-walk",
+        "cautious",
+        "preoccupied"
+      ],
+      "egoTags": [
+        "gradual-brake"
+      ],
+      "sceneTags": [
+        "day",
+        "none",
+        "one-way",
+        "no-crosswalk",
+        "moderate"
+      ],
+      "archetypeTags": [
+        "elderly"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 1450,
+      "frameEnd": 2400,
+      "pedTags": [
+        "preoccupied",
+        "not-sure-cross",
+        "cross",
+        "not-looking-glancing",
+        "fixated-not-at-incoming-vehicle",
+        "pause-start"
+      ],
+      "egoTags": [
+        "halt"
+      ],
+      "sceneTags": [
+        "night",
+        "rainy",
+        "light",
+        "red",
+        "crosswalk"
+      ],
+      "archetypeTags": [
+        "indecisive",
+        "blind"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 3400,
+      "frameEnd": 3600,
+      "pedTags": [
+        "trip",
+        "brisk-walk",
+        "cross",
+        "group-disperse",
+        "fall",
+        "preoccupied"
+      ],
+      "egoTags": [
+        "halt"
+      ],
+      "sceneTags": [
+        "day",
+        "red",
+        "crosswalk",
+        "cloudy",
+        "one-way"
+      ],
+      "archetypeTags": [
+        "parked-pedestrian"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 5400,
+      "frameEnd": 5700,
+      "pedTags": [
+        "preoccupied",
+        "not-sure-cross",
+        "cross",
+        "run-into-traffic",
+        "cross-without-crosswalk",
+        "ignore-traffic",
+        "not-looking-glancing",
+        "fixated-not-at-incoming-vehicle"
+      ],
+      "egoTags": [
+        "gradual-brake"
+      ],
+      "sceneTags": [
+        "day",
+        "none",
+        "one-way",
+        "green",
+        "no-crosswalk",
+        "light"
+      ],
+      "archetypeTags": [
+        "jaywalker",
+        "parked-pedestrian"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 5720,
+      "frameEnd": 6000,
+      "pedTags": [
+        "crosswalk-detour",
+        "ignore-traffic",
+        "pop-out-occlusion",
+        "cross-without-crosswalk",
+        "not-looking-glancing",
+        "cross-on-red",
+        "run-into-traffic",
+        "collision",
+        "speed-up",
+        "thrown-back"
+      ],
+      "egoTags": [
+        "aggressive-brake",
+        "halt"
+      ],
+      "sceneTags": [
+        "day",
+        "green",
+        "moderate",
+        "one-way",
+        "two-way",
+        "occluded-pedestrian",
+        "no-crosswalk",
+        "crosswalk"
+      ],
+      "archetypeTags": [
+        "flash",
+        "jaywalker"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 6050,
+      "frameEnd": 6390,
+      "pedTags": [
+        "agitated",
+        "crosswalk-detour",
+        "cross-without-crosswalk",
+        "ignore-traffic",
+        "brisk-walk",
+        "cross-on-red",
+        "cross"
+      ],
+      "egoTags": [
+        "halt"
+      ],
+      "sceneTags": [
+        "day",
+        "green",
+        "crosswalk",
+        "one-way",
+        "moderate"
+      ],
+      "archetypeTags": [
+        "jaywalker"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 7540,
+      "frameEnd": 7950,
+      "pedTags": [
+        "near-miss",
+        "preoccupied",
+        "run-into-traffic",
+        "cross-without-crosswalk",
+        "pop-out-occlusion",
+        "ignore-traffic",
+        "not-looking-glancing",
+        "fixated-not-at-incoming-vehicle",
+        "break",
+        "not-sure-cross"
+      ],
+      "egoTags": [
+        "aggressive-brake"
+      ],
+      "sceneTags": [
+        "day",
+        "cloudy",
+        "none",
+        "light",
+        "two-way",
+        "occluded-pedestrian",
+        "no-crosswalk"
+      ],
+      "archetypeTags": [
+        "jaywalker",
+        "distracted"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 8347,
+      "frameEnd": 9600,
+      "pedTags": [],
+      "egoTags": [
+        "aggressive-brake",
+        "gradual-brake"
+      ],
+      "sceneTags": [
+        "night",
+        "glare-on-windshield",
+        "two-way",
+        "light",
+        "blinking-yellow",
+        "no-crosswalk",
+        "crosswalk"
+      ],
+      "archetypeTags": [],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 9635,
+      "frameEnd": 9850,
+      "pedTags": [],
+      "egoTags": [
+        "gradual-brake"
+      ],
+      "sceneTags": [
+        "day",
+        "green",
+        "no-crosswalk",
+        "light",
+        "one-way",
+        "two-way"
+      ],
+      "archetypeTags": [
+        "drunk",
+        "indecisive"
+      ],
+      "additionalNotes": ""
+    }
+  ],
+  "singleFrameAnnotations": []
+}

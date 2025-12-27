@@ -1,0 +1,336 @@
+{
+  "name": "Bad UK Driving, Pedestrians",
+  "fps": 30,
+  "video_path": "https://www.youtube.com/watch?v=yHK0mlcUAJI",
+  "multiFrameAnnotations": [
+    {
+      "frameStart": 553,
+      "frameEnd": 630,
+      "pedTags": [
+        "group-walk",
+        "cross-without-crosswalk",
+        "not-looking-glancing"
+      ],
+      "egoTags": [],
+      "sceneTags": [
+        "moderate",
+        "two-way",
+        "day"
+      ],
+      "archetypeTags": [
+        "jaywalker"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 635,
+      "frameEnd": 640,
+      "pedTags": [
+        "cross-without-crosswalk",
+        "looking"
+      ],
+      "egoTags": [],
+      "sceneTags": [
+        "day"
+      ],
+      "archetypeTags": [
+        "jaywalker"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 896,
+      "frameEnd": 999,
+      "pedTags": [
+        "brisk-walk",
+        "cross"
+      ],
+      "egoTags": [],
+      "sceneTags": [
+        "cloudy",
+        "day",
+        "no-crosswalk"
+      ],
+      "archetypeTags": [
+        "flash"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 1612,
+      "frameEnd": 1650,
+      "pedTags": [
+        "group-disperse",
+        "brisk-walk",
+        "not-looking-glancing"
+      ],
+      "egoTags": [
+        "gradual-brake"
+      ],
+      "sceneTags": [
+        "day"
+      ],
+      "archetypeTags": [
+        "flock",
+        "flash"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 1988,
+      "frameEnd": 2120,
+      "pedTags": [
+        "pop-out-occlusion",
+        "along-lane",
+        "not-looking-glancing"
+      ],
+      "egoTags": [
+        "gradual-brake"
+      ],
+      "sceneTags": [
+        "day"
+      ],
+      "archetypeTags": [
+        "distracted"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 2424,
+      "frameEnd": 2557,
+      "pedTags": [
+        "pause-start",
+        "cross",
+        "cross-without-crosswalk",
+        "looking"
+      ],
+      "egoTags": [
+        "gradual-brake"
+      ],
+      "sceneTags": [
+        "day"
+      ],
+      "archetypeTags": [
+        "jaywalker"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 2935,
+      "frameEnd": 3148,
+      "pedTags": [
+        "cross-without-crosswalk",
+        "brisk-walk",
+        "not-looking-glancing",
+        "ignore-traffic",
+        "run-into-traffic"
+      ],
+      "egoTags": [
+        "gradual-brake"
+      ],
+      "sceneTags": [
+        "day"
+      ],
+      "archetypeTags": [
+        "flash"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 3561,
+      "frameEnd": 3694,
+      "pedTags": [
+        "pop-out-occlusion",
+        "not-looking-glancing",
+        "cross-without-crosswalk"
+      ],
+      "egoTags": [
+        "gradual-brake"
+      ],
+      "sceneTags": [
+        "rainy",
+        "no-crosswalk"
+      ],
+      "archetypeTags": [
+        "distracted"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 3945,
+      "frameEnd": 4034,
+      "pedTags": [
+        "not-looking-glancing",
+        "cross-on-red"
+      ],
+      "egoTags": [
+        "halt",
+        "aggressive-brake"
+      ],
+      "sceneTags": [
+        "day",
+        "sunny"
+      ],
+      "archetypeTags": [
+        "blind"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 4560,
+      "frameEnd": 4653,
+      "pedTags": [
+        "brisk-walk",
+        "glancing",
+        "cross-without-crosswalk"
+      ],
+      "egoTags": [],
+      "sceneTags": [
+        "cloudy",
+        "day"
+      ],
+      "archetypeTags": [
+        "flash"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 5720,
+      "frameEnd": 5811,
+      "pedTags": [
+        "brisk-walk",
+        "cross-without-crosswalk",
+        "not-looking-glancing"
+      ],
+      "egoTags": [
+        "gradual-brake"
+      ],
+      "sceneTags": [
+        "cloudy",
+        "day"
+      ],
+      "archetypeTags": [
+        "jaywalker"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 6083,
+      "frameEnd": 6171,
+      "pedTags": [
+        "speed-up",
+        "cross-on-red"
+      ],
+      "egoTags": [
+        "gradual-acceleration"
+      ],
+      "sceneTags": [
+        "day"
+      ],
+      "archetypeTags": [
+        "flash"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 7112,
+      "frameEnd": 7309,
+      "pedTags": [
+        "cross",
+        "glancing",
+        "near-miss"
+      ],
+      "egoTags": [
+        "gradual-brake"
+      ],
+      "sceneTags": [
+        "rainy"
+      ],
+      "archetypeTags": [
+        "blind"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 7618,
+      "frameEnd": 7737,
+      "pedTags": [
+        "group-walk",
+        "cross"
+      ],
+      "egoTags": [
+        "gradual-brake"
+      ],
+      "sceneTags": [
+        "day",
+        "sunny"
+      ],
+      "archetypeTags": [
+        "flock"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 8107,
+      "frameEnd": 8234,
+      "pedTags": [
+        "group-walk",
+        "brisk-walk",
+        "pop-out-occlusion",
+        "near-miss"
+      ],
+      "egoTags": [
+        "aggressive-brake"
+      ],
+      "sceneTags": [
+        "day"
+      ],
+      "archetypeTags": [
+        "flock"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 8722,
+      "frameEnd": 8981,
+      "pedTags": [
+        "group-walk",
+        "cautious",
+        "not-sure-cross",
+        "looking"
+      ],
+      "egoTags": [
+        "halt"
+      ],
+      "sceneTags": [
+        "day",
+        "sunny"
+      ],
+      "archetypeTags": [
+        "indecisive"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 10049,
+      "frameEnd": 10163,
+      "pedTags": [
+        "along-lane",
+        "brisk-walk",
+        "not-looking-glancing",
+        "not-cross"
+      ],
+      "egoTags": [
+        "lane-change"
+      ],
+      "sceneTags": [
+        "day"
+      ],
+      "archetypeTags": [
+        "blind"
+      ],
+      "additionalNotes": ""
+    }
+  ],
+  "singleFrameAnnotations": []
+}

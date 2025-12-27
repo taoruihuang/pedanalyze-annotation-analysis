@@ -1,0 +1,28 @@
+{
+  "name": "Dangerous Pedestrian Behavior",
+  "fps": 30,
+  "video_path": "https://www.youtube.com/watch?v=vTRgFVKyr1Y",
+  "multiFrameAnnotations": [
+    {
+      "frameStart": 541,
+      "frameEnd": 656,
+      "pedTags": [
+        "group-walk",
+        "cross"
+      ],
+      "egoTags": [
+        "gradual-brake"
+      ],
+      "sceneTags": [
+        "day",
+        "cloudy",
+        "crosswalk"
+      ],
+      "archetypeTags": [
+        "flock"
+      ],
+      "additionalNotes": ""
+    }
+  ],
+  "singleFrameAnnotations": []
+}

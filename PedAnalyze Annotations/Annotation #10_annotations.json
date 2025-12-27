@@ -1,0 +1,176 @@
+{
+  "name": "Annotation #10",
+  "fps": 30,
+  "video_path": "https://www.youtube.com/watch?v=mqaig0nVcDs",
+  "numberOfSingleFrameAnnotations": 0,
+  "numberOfMultiFrameAnnotations": 6,
+  "multiFrameAnnotations": [
+    {
+      "frameStart": 0,
+      "frameEnd": 1350,
+      "pedTags": [
+        "not-cross",
+        "looking",
+        "run-into-traffic",
+        "climbing-onto-carhood",
+        "along-lane",
+        "collision",
+        "fall"
+      ],
+      "egoTags": [
+        "gradual-brake",
+        "halt"
+      ],
+      "sceneTags": [
+        "day",
+        "none",
+        "no-crosswalk",
+        "two-way"
+      ],
+      "archetypeTags": [
+        "jaywalker",
+        "con-artist"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 1480,
+      "frameEnd": 1880,
+      "pedTags": [
+        "not-cross",
+        "looking",
+	"fall",
+        "collision",
+	"gesturing"
+      ],
+      "egoTags": [
+        "honk",
+        "halt",
+        "gradual-brake"
+      ],
+      "sceneTags": [
+        "cloudy",
+        "day",
+        "none",
+        "no-crosswalk",
+        "two-way"
+      ],
+      "archetypeTags": [
+        "con-artist",
+        "jaywalker"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 3480,
+      "frameEnd": 3770,
+      "pedTags": [
+        "not-cross",
+        "looking",
+        "run-into-traffic",
+        "climbing-onto-carhood",
+        "fall",
+        "collision",
+        "along-lane"
+      ],
+      "egoTags": [
+        "halt",
+        "gradual-brake"
+      ],
+      "sceneTags": [
+        "night",
+	"glare-on-windshield",
+	"two-way"
+      ],
+      "archetypeTags": [
+        "con-artist",
+        "jaywalker"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 5500,
+      "frameEnd": 6400,
+      "pedTags": [
+        "run-into-traffic",
+        "fall",
+        "not-cross",
+        "looking",
+        "near-miss"
+      ],
+      "egoTags": [
+        "halt",
+        "gradual-brake"
+      ],
+      "sceneTags": [
+        "day",
+        "cloudy",
+        "none",
+        "no-crosswalk",
+        "two-way"
+      ],
+      "archetypeTags": [
+        "jaywalker",
+        "eventful"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 8610,
+      "frameEnd": 11300,
+      "pedTags": [
+        "run-into-traffic",
+        "along-lane",
+        "looking",
+        "not-cross",
+        "near-miss",
+        "aggression",
+	"retreat",
+	"drop-object",
+	"pickup-objecet"
+      ],
+      "egoTags": [
+        "quick-reverse",
+	"swerve",
+        "halt"
+      ],
+      "sceneTags": [
+        "day",
+        "cloudy",
+        "none",
+        "no-crosswalk"
+      ],
+      "archetypeTags": [
+        "wanderer",
+        "jaywalker"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 11750,
+      "frameEnd": 11950,
+      "pedTags": [
+        "not-cross",
+        "looking",
+        "collision",
+        "fall"
+      ],
+      "egoTags": [
+        "halt",
+        "gradual-brake"
+      ],
+      "sceneTags": [
+        "day",
+	"sunny",
+        "crosswalk",
+        "none",
+        "two-way"
+      ],
+      "archetypeTags": [
+        "con-artist"
+      ],
+      "additionalNotes": ""
+    }
+  ],
+  "singleFrameAnnotations": []
+}

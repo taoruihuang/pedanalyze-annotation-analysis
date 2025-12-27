@@ -1,0 +1,300 @@
+{
+  "name": "Annotation #3",
+  "fps": 30,
+  "video_path": "https://www.youtube.com/watch?v=vtXnBcliIcM",
+  "numberOfSingleFrameAnnotations": 0,
+  "numberOfMultiFrameAnnotations": 10,
+  "multiFrameAnnotations": [
+    {
+      "frameStart": 300,
+      "frameEnd": 520,
+      "pedTags": [
+        "collision",
+        "run-into-traffic",
+	"drop-object",
+	"not-cross",
+	"fall",
+        "ignore-traffic",
+        "not-looking-glancing"
+      ],
+      "egoTags": [
+        "swerve",
+        "aggressive-brake"
+      ],
+      "sceneTags": [
+        "day",
+	"cloudy",
+	"intersection",
+        "no-crosswalk",
+        "two-way"
+      ],
+      "archetypeTags": [
+        "pseudo-pedestrian",
+        "blind",
+	"flash"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 0,
+      "frameEnd": 250,
+      "pedTags": [
+        "collision",
+	"thrown-back",
+	"pop-out-occlusion",
+        "ignore-traffic",
+        "run-into-traffic",
+	"fall",
+	"drop-object",
+        "not-looking-glancing"
+      ],
+      "egoTags": [
+        "aggressive-brake",
+	"halt"
+      ],
+      "sceneTags": [
+        "day",
+	"sunny",
+	"two-way",
+	"crossing-sign",
+        "no-crosswalk",
+        "none"
+      ],
+      "archetypeTags": [
+        "blind",
+        "flash"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 550,
+      "frameEnd": 680,
+      "pedTags": [
+        "collision",
+        "break",
+	"cross-without-crosswalk",
+	"fall",
+        "run-into-traffic",
+        "glancing"
+      ],
+      "egoTags": [
+        "aggressive-brake",
+	"halt"
+      ],
+      "sceneTags": [
+        "day",
+        "no-crosswalk",
+	"sunny",
+	"one-way",
+	"green",
+        "none"
+      ],
+      "archetypeTags": [
+        "jaywalker",
+        "flash"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 1100,
+      "frameEnd": 1200,
+      "pedTags": [
+        "run-into-traffic",	
+	"ignore-traffic",
+        "collision",
+        "ignore-traffic",
+        "not-looking-glancing",
+	"cross-on-red",
+	"fall",
+	"thrown-back",
+	"skid",
+        "cross-without-crosswalk"
+      ],
+      "egoTags": [
+        "aggressive-brake",
+	"halt"
+      ],
+      "sceneTags": [
+        "day",
+	"cloudy",
+	"intersection",
+	"green"
+      ],
+      "archetypeTags": [
+        "pseudo-pedestrian",
+	"blind",
+        "flash"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 2080,
+      "frameEnd": 2250,
+      "pedTags": [
+        "crosswalk-detour",
+        "glancing",
+        "not-cross"
+      ],
+      "egoTags": [
+        "aggressive-brake",
+	"halt"
+      ],
+      "sceneTags": [
+        "day",
+	"intersection",
+	"sunny",
+        "crosswalk",
+        "none"
+      ],
+      "archetypeTags": [
+        "jaywalker"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 2580,
+      "frameEnd": 2780,
+      "pedTags": [
+        "collision",
+	"thrown-back",
+        "ignore-traffic",
+	"not-looking-glancing",
+	"run-into-traffic",
+	"skid",
+	"fall",
+        "cross"
+      ],
+      "egoTags": [
+        "swerve",
+        "halt",
+        "gradual-brake"
+      ],
+      "sceneTags": [
+        "day",
+        "none",
+        "crosswalk",
+        "two-way"
+      ],
+      "archetypeTags": [
+        "blind"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 5720,
+      "frameEnd": 5900,
+      "pedTags": [
+        "pop-out-occlusion",
+        "collision",
+        "ignore-traffic",
+        "run-into-traffic",
+	"drop-object",
+        "glancing"
+      ],
+      "egoTags": [
+        "Keep-speed"
+      ],
+      "sceneTags": [
+        "day",
+        "none",
+        "no-crosswalk",
+        "two-way"
+      ],
+      "archetypeTags": [
+        "pseudo-pedestrian",
+        "blind"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 6100,
+      "frameEnd": 6250,
+      "pedTags": [
+        "collision",
+        "run-into-traffic",
+        "ignore-traffic",
+        "climbing-onto-carhood",
+	"not-looking-glancing",
+	"trip",
+	"fall",
+	"cross"
+      ],
+      "egoTags": [
+        "swerve",
+        "induced-collision"
+      ],
+      "sceneTags": [
+        "crossing-sign",
+	"crosswalk",
+        "day",
+	"one-way"
+      ],
+      "archetypeTags": [
+        "flash",
+        "blind"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 3650,
+      "frameEnd": 3750,
+      "pedTags": [
+        "ignore-traffic",
+        "run-into-traffic",
+        "collision",
+        "thrown-back",
+        "cross",
+        "not-looking-glancing"
+      ],
+      "egoTags": [
+        "aggressive-brake",
+	"halt"
+      ],
+      "sceneTags": [
+        "day",
+        "cloudy",
+        "two-way",
+        "no-crosswalk"
+      ],
+      "archetypeTags": [
+        "blind",
+        "flash",
+        "pseudo-pedestrian"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 4360,
+      "frameEnd": 4500,
+      "pedTags": [
+        "skid",
+	"collision",
+	"thrown-back",
+        "fall",
+        "cross",
+        "not-looking-glancing",
+        "ignore-traffic",
+	"drop-object",
+        "slow-down",
+        "run-into-traffic"
+      ],
+      "egoTags": [
+        "aggressive-brake",
+	"halt"
+      ],
+      "sceneTags": [
+        "day",
+	"sunny",
+	"none",
+        "two-way",
+        "crosswalk"
+      ],
+      "archetypeTags": [
+        "flash",
+        "blind"
+      ],
+      "additionalNotes": ""
+    }
+  ],
+  "singleFrameAnnotations": []
+}

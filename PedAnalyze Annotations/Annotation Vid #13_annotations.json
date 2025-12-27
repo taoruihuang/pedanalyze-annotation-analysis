@@ -1,0 +1,218 @@
+{
+  "name": "Annotation Vid #13",
+  "fps": 30,
+  "video_path": "https://www.youtube.com/watch?v=fJrxxsB33c8",
+  "numberOfSingleFrameAnnotations": 0,
+  "numberOfMultiFrameAnnotations": 7,
+  "multiFrameAnnotations": [
+    {
+      "frameStart": 434,
+      "frameEnd": 600,
+      "pedTags": [
+        "along-lane",
+        "pause-start",
+        "not-sure-cross",
+        "ignore-traffic",
+        "run-into-traffic",
+        "back-turned",
+        "speed-up",
+        "crosswalk-detour"
+      ],
+      "egoTags": [
+        "gradual-brake"
+      ],
+      "sceneTags": [
+        "day",
+        "foggy",
+        "crosswalk",
+        "light",
+        "two-way"
+      ],
+      "archetypeTags": [
+        "jaywalker",
+        "indecisive",
+        "blind"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 1520,
+      "frameEnd": 1950,
+      "pedTags": [
+        "re-group",
+        "group-disperse",
+        "cross-on-red",
+        "ignore-traffic",
+        "retreat",
+        "not-sure-cross",
+        "group-walk",
+        "looking"
+      ],
+      "egoTags": [
+        "gradual-brake",
+        "halt"
+      ],
+      "sceneTags": [
+        "day",
+        "cloudy",
+        "green",
+        "red",
+        "crosswalk",
+        "light",
+        "two-way"
+      ],
+      "archetypeTags": [
+        "indecisive",
+        "jaywalker",
+        "blind"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 2640,
+      "frameEnd": 2800,
+      "pedTags": [
+        "ignore-traffic",
+        "cross",
+        "cross-on-red",
+        "looking",
+        "speed-up",
+        "pause-start"
+      ],
+      "egoTags": [
+        "gradual-brake"
+      ],
+      "sceneTags": [
+        "day",
+        "cloudy",
+        "green",
+        "light"
+      ],
+      "archetypeTags": [
+        "jaywalker",
+        "blind"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 3300,
+      "frameEnd": 3355,
+      "pedTags": [
+        "looking",
+        "along-lane",
+        "dancing",
+        "ignore-traffic",
+        "not-cross"
+      ],
+      "egoTags": [
+        "swerve",
+        "Keep-speed"
+      ],
+      "sceneTags": [
+        "sunny",
+        "day",
+        "none",
+        "no-crosswalk",
+        "moderate",
+        "two-way"
+      ],
+      "archetypeTags": [
+        "wanderer",
+        "jaywalker"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 3360,
+      "frameEnd": 3550,
+      "pedTags": [
+        "along-lane",
+        "not-cross",
+        "dancing",
+        "back-turned",
+        "ignore-traffic",
+        "fixated-not-at-incoming-vehicle"
+      ],
+      "egoTags": [
+        "swerve",
+        "Keep-speed"
+      ],
+      "sceneTags": [
+        "day",
+        "sunny",
+        "none",
+        "highway",
+        "no-crosswalk",
+        "light",
+        "two-way"
+      ],
+      "archetypeTags": [
+        "wanderer",
+        "jaywalker",
+        "blind"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 3600,
+      "frameEnd": 3800,
+      "pedTags": [
+        "cross-without-crosswalk",
+        "not-sure-cross",
+        "preoccupied",
+        "fixated-not-at-incoming-vehicle",
+        "not-looking-glancing",
+        "ignore-traffic",
+        "dancing",
+        "gesturing"
+      ],
+      "egoTags": [
+        "halt"
+      ],
+      "sceneTags": [
+        "night",
+        "none",
+        "no-crosswalk",
+        "light",
+        "two-way"
+      ],
+      "archetypeTags": [
+        "drunk",
+        "jaywalker",
+        "blind"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 3960,
+      "frameEnd": 4155,
+      "pedTags": [
+        "not-sure-cross",
+        "looking",
+        "ignore-traffic",
+        "retreat",
+        "brisk-walk",
+        "flinch-in"
+      ],
+      "egoTags": [
+        "gradual-brake",
+        "halt"
+      ],
+      "sceneTags": [
+        "day",
+        "sunny",
+        "none",
+        "no-crosswalk",
+        "light",
+        "one-way"
+      ],
+      "archetypeTags": [
+        "jaywalker",
+        "indecisive",
+        "blind"
+      ],
+      "additionalNotes": ""
+    }
+  ],
+  "singleFrameAnnotations": []
+}

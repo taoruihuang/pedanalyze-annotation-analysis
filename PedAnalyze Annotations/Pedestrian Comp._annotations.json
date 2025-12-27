@@ -1,0 +1,264 @@
+{
+  "name": "Pedestrian Comp.",
+  "fps": 30,
+  "video_path": "https://www.youtube.com/watch?v=eu4QqwsfXFE",
+  "multiFrameAnnotations": [
+    {
+      "frameStart": 275,
+      "frameEnd": 350,
+      "pedTags": [
+        "collision",
+        "run-into-traffic"
+      ],
+      "egoTags": [
+        "aggressive-brake"
+      ],
+      "sceneTags": [
+        "night",
+        "no-crosswalk",
+        "two-way"
+      ],
+      "archetypeTags": [
+        "flash"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 443,
+      "frameEnd": 700,
+      "pedTags": [
+        "collision",
+        "thrown-back"
+      ],
+      "egoTags": [
+        "induced-collision",
+        "swerve",
+        "sidewalk"
+      ],
+      "sceneTags": [
+        "cloudy",
+        "day"
+      ],
+      "archetypeTags": [
+        "distracted"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 730,
+      "frameEnd": 970,
+      "pedTags": [
+        "speed-up",
+        "run-into-traffic",
+        "not-cross",
+        "not-looking-glancing",
+        "collision"
+      ],
+      "egoTags": [
+        "gradual-brake"
+      ],
+      "sceneTags": [
+        "day",
+        "sunny",
+        "no-crosswalk",
+        "one-way",
+        "occluded-pedestrian"
+      ],
+      "archetypeTags": [
+        "flash",
+        "jaywalker"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 1070,
+      "frameEnd": 1250,
+      "pedTags": [
+        "looking",
+        "not-cross",
+        "run-into-traffic",
+        "jaywalking"
+      ],
+      "egoTags": [
+        "gradual-brake"
+      ],
+      "sceneTags": [
+        "day",
+        "cloudy",
+        "no-crosswalk"
+      ],
+      "archetypeTags": [
+        "wanderer"
+      ],
+      "additionalNotes": "Pedestrian gets mad at vehicle and hits it."
+    },
+    {
+      "frameStart": 1270,
+      "frameEnd": 1480,
+      "pedTags": [
+        "near-miss",
+        "looking"
+      ],
+      "egoTags": [
+        "gradual-brake"
+      ],
+      "sceneTags": [
+        "day",
+        "cloudy",
+        "crosswalk"
+      ],
+      "archetypeTags": [],
+      "additionalNotes": "Pedestrian get mad and throws coffee at car."
+    },
+    {
+      "frameStart": 1500,
+      "frameEnd": 1660,
+      "pedTags": [
+        "glancing",
+        "jaywalking",
+        "along-lane",
+        "wander"
+      ],
+      "egoTags": [
+        "swerve"
+      ],
+      "sceneTags": [
+        "day",
+        "cloudy",
+        "no-crosswalk"
+      ],
+      "archetypeTags": [
+        "wanderer"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 1900,
+      "frameEnd": 2070,
+      "pedTags": [
+        "group-disperse",
+        "speed-up",
+        "near-miss",
+        "cross",
+        "group-walk"
+      ],
+      "egoTags": [
+        "aggressive-acceleration"
+      ],
+      "sceneTags": [
+        "night",
+        "blinking-yellow"
+      ],
+      "archetypeTags": [
+        "flash"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 2075,
+      "frameEnd": 2300,
+      "pedTags": [
+        "trip",
+        "group-disperse",
+        "near-miss",
+        "group-walk",
+        "not-looking-glancing",
+        "cross"
+      ],
+      "egoTags": [
+        "aggressive-brake",
+        "speeding"
+      ],
+      "sceneTags": [],
+      "archetypeTags": [
+        "pseudo-pedestrian",
+        "kid",
+        "flock"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 2330,
+      "frameEnd": 2520,
+      "pedTags": [
+        "swerve",
+        "flinch-in",
+        "near-miss",
+        "distracted",
+        "along-lane"
+      ],
+      "egoTags": [
+        "aggressive-brake",
+        "swerve"
+      ],
+      "sceneTags": [],
+      "archetypeTags": [
+        "distracted"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 2530,
+      "frameEnd": 2760,
+      "pedTags": [
+        "pause-start",
+        "flinch-in",
+        "distracted",
+        "flinch-out"
+      ],
+      "egoTags": [
+        "make-go",
+        "halt",
+        "aggressive-brake"
+      ],
+      "sceneTags": [],
+      "archetypeTags": [
+        "distracted"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 2860,
+      "frameEnd": 3150,
+      "pedTags": [
+        "near-miss",
+        "not-sure-cross",
+        "break",
+        "thrown-back"
+      ],
+      "egoTags": [
+        "aggressive-acceleration",
+        "speeding",
+        "aggressive-brake",
+        "swerve"
+      ],
+      "sceneTags": [],
+      "archetypeTags": [
+        "flash",
+        "eventful"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 3165,
+      "frameEnd": 3370,
+      "pedTags": [
+        "near-miss",
+        "looking",
+        "cross",
+        "slow-down",
+        "cautious"
+      ],
+      "egoTags": [
+        "aggressive-brake",
+        "speeding",
+        "halt",
+        "swerve"
+      ],
+      "sceneTags": [],
+      "archetypeTags": [],
+      "additionalNotes": ""
+    }
+  ],
+  "singleFrameAnnotations": []
+}

@@ -1,0 +1,82 @@
+{
+  "name": "London Pedestrian Compilation",
+  "fps": 30,
+  "video_path": "https://www.youtube.com/watch?v=NzC4LRVenTk",
+  "multiFrameAnnotations": [
+    {
+      "frameStart": 65,
+      "frameEnd": 101,
+      "pedTags": [
+        "cross-without-crosswalk",
+        "looking"
+      ],
+      "egoTags": [],
+      "sceneTags": [],
+      "archetypeTags": [
+        "jaywalker"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 388,
+      "frameEnd": 573,
+      "pedTags": [
+        "cross-without-crosswalk",
+        "brisk-walk",
+        "gesturing",
+        "glancing"
+      ],
+      "egoTags": [
+        "gradual-brake"
+      ],
+      "sceneTags": [],
+      "archetypeTags": [
+        "jaywalker"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 3843,
+      "frameEnd": 4225,
+      "pedTags": [
+        "gesturing",
+        "looking"
+      ],
+      "egoTags": [
+        "slow-reverse"
+      ],
+      "sceneTags": [],
+      "archetypeTags": [],
+      "additionalNotes": ""
+    }
+  ],
+  "singleFrameAnnotations": [
+    {
+      "frame": 0,
+      "pedTags": [],
+      "egoTags": [],
+      "sceneTags": [
+        "day",
+        "cloudy",
+        "no-crosswalk",
+        "heavy"
+      ],
+      "archetypeTags": [],
+      "additionalNotes": ""
+    },
+    {
+      "frame": 3702,
+      "pedTags": [],
+      "egoTags": [],
+      "sceneTags": [
+        "day",
+        "cloudy",
+        "red",
+        "crosswalk",
+        "light"
+      ],
+      "archetypeTags": [],
+      "additionalNotes": ""
+    }
+  ]
+}

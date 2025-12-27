@@ -1,0 +1,32 @@
+{
+  "name": "Annotation #15",
+  "fps": 30,
+  "video_path": "https://www.youtube.com/watch?v=5yciPt8dWSc",
+  "numberOfSingleFrameAnnotations": 0,
+  "numberOfMultiFrameAnnotations": 1,
+  "multiFrameAnnotations": [
+    {
+      "frameStart": 0,
+      "frameEnd": 300,
+      "pedTags": [
+        "not-cross",
+        "looking",
+        "observing",
+        "frozen"
+      ],
+      "egoTags": [],
+      "sceneTags": [
+        "crosswalk",
+        "one-way",
+        "day",
+        "cloudy"
+      ],
+      "archetypeTags": [
+        "flock",
+        "protester"
+      ],
+      "additionalNotes": ""
+    }
+  ],
+  "singleFrameAnnotations": []
+}

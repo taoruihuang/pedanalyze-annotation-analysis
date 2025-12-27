@@ -1,0 +1,62 @@
+{
+  "name": "Annotation #14",
+  "fps": 30,
+  "video_path": "https://www.youtube.com/watch?v=Ibn8mA166qk",
+  "numberOfSingleFrameAnnotations": 0,
+  "numberOfMultiFrameAnnotations": 2,
+  "multiFrameAnnotations": [
+    {
+      "frameStart": 200,
+      "frameEnd": 235,
+      "pedTags": [
+        "group-walk",
+        "assault",
+        "aggression",
+        "looking",
+        "near-miss"
+      ],
+      "egoTags": [
+        "Keep-speed"
+      ],
+      "sceneTags": [
+        "day",
+        "none",
+        "no-crosswalk"
+      ],
+      "archetypeTags": [
+        "protester",
+        "jaywalker"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 235,
+      "frameEnd": 630,
+      "pedTags": [
+        "collision",
+        "retreat",
+        "not-cross",
+        "looking",
+        "along-lane",
+        "frozen",
+        "thrown-back",
+        "make-stop"
+      ],
+      "egoTags": [
+        "gradual-acceleration",
+        "halt"
+      ],
+      "sceneTags": [
+        "day",
+        "none",
+        "no-crosswalk"
+      ],
+      "archetypeTags": [
+        "protester",
+        "jaywalker"
+      ],
+      "additionalNotes": ""
+    }
+  ],
+  "singleFrameAnnotations": []
+}

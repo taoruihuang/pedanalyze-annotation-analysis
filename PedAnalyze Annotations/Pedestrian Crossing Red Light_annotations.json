@@ -1,0 +1,65 @@
+{
+  "name": "Pedestrian Crossing Red Light",
+  "fps": 30,
+  "video_path": "https://www.youtube.com/watch?v=_aP-A2vRJUY",
+  "multiFrameAnnotations": [
+    {
+      "frameStart": 42,
+      "frameEnd": 185,
+      "pedTags": [
+        "pause-start"
+      ],
+      "egoTags": [
+        "gradual-acceleration"
+      ],
+      "sceneTags": [
+        "night",
+        "green"
+      ],
+      "archetypeTags": [],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 0,
+      "frameEnd": 18,
+      "pedTags": [
+        "cross-on-red"
+      ],
+      "egoTags": [],
+      "sceneTags": [],
+      "archetypeTags": [],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 18,
+      "frameEnd": 42,
+      "pedTags": [
+        "frozen",
+        "glancing"
+      ],
+      "egoTags": [
+        "gradual-brake",
+        "halt"
+      ],
+      "sceneTags": [],
+      "archetypeTags": [],
+      "additionalNotes": ""
+    }
+  ],
+  "singleFrameAnnotations": [
+    {
+      "frame": 0,
+      "pedTags": [],
+      "egoTags": [],
+      "sceneTags": [
+        "night",
+        "red",
+        "light"
+      ],
+      "archetypeTags": [
+        "indecisive"
+      ],
+      "additionalNotes": ""
+    }
+  ]
+}

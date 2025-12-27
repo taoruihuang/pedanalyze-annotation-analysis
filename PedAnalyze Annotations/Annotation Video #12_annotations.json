@@ -1,0 +1,126 @@
+{
+  "name": "Annotation Video #12",
+  "fps": 30,
+  "video_path": "https://www.youtube.com/watch?v=nDzgqb_Asvg",
+  "numberOfSingleFrameAnnotations": 0,
+  "numberOfMultiFrameAnnotations": 4,
+  "multiFrameAnnotations": [
+    {
+      "frameStart": 500,
+      "frameEnd": 750,
+      "pedTags": [
+        "cross-without-crosswalk",
+        "run-into-traffic",
+        "collision",
+        "thrown-back",
+        "cross",
+        "pop-out-occlusion"
+      ],
+      "egoTags": [
+        "aggressive-brake",
+        "halt"
+      ],
+      "sceneTags": [
+        "day",
+        "foggy",
+        "none",
+        "no-crosswalk",
+        "heavy",
+        "occluded-pedestrian",
+        "two-way"
+      ],
+      "archetypeTags": [
+        "flash",
+        "jaywalker",
+        "blind"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 2400,
+      "frameEnd": 2490,
+      "pedTags": [
+        "cross-without-crosswalk",
+        "cross",
+        "collision",
+        "thrown-back",
+        "run-into-traffic",
+        "ignore-traffic"
+      ],
+      "egoTags": [
+        "swerve"
+      ],
+      "sceneTags": [
+        "day",
+        "cloudy",
+        "none",
+        "no-crosswalk"
+      ],
+      "archetypeTags": [
+        "blind",
+        "jaywalker",
+        "flash"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 5900,
+      "frameEnd": 6077,
+      "pedTags": [
+        "not-looking-glancing",
+        "cross-without-crosswalk",
+        "ignore-traffic",
+        "collision",
+        "thrown-back",
+        "cross",
+        "frozen"
+      ],
+      "egoTags": [
+        "aggressive-brake",
+        "halt"
+      ],
+      "sceneTags": [
+        "day",
+        "cloudy",
+        "none",
+        "no-crosswalk",
+        "two-way",
+        "light"
+      ],
+      "archetypeTags": [
+        "flash",
+        "jaywalker",
+        "elderly",
+        "blind"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 6645,
+      "frameEnd": 6730,
+      "pedTags": [
+        "pop-out-occlusion",
+        "ignore-traffic",
+        "not-looking-glancing",
+        "collision",
+        "thrown-back"
+      ],
+      "egoTags": [
+        "aggressive-brake",
+        "halt"
+      ],
+      "sceneTags": [
+        "day",
+        "sunny",
+        "none",
+        "moderate",
+        "two-way"
+      ],
+      "archetypeTags": [
+        "blind"
+      ],
+      "additionalNotes": ""
+    }
+  ],
+  "singleFrameAnnotations": []
+}

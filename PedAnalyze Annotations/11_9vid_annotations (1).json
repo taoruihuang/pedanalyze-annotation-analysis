@@ -1,0 +1,211 @@
+{
+  "name": "11/9vid",
+  "fps": 30,
+  "video_path": "https://youtu.be/vhDHp1zqhmY?si=6GYMWB9N1n7dRgO_",
+  "numberOfSingleFrameAnnotations": 0,
+  "numberOfMultiFrameAnnotations": 7,
+  "multiFrameAnnotations": [
+    {
+      "frameStart": 133,
+      "frameEnd": 611,
+      "pedTags": [
+        "ignore-traffic",
+        "observing",
+        "fixated-not-at-incoming-vehicle",
+        "make-stop",
+        "pause-start",
+        "frozen",
+        "preoccupied",
+        "dancing"
+      ],
+      "egoTags": [
+        "gradual-brake",
+        "halt",
+        "make-go"
+      ],
+      "sceneTags": [
+        "day",
+        "crosswalk",
+        "two-way",
+        "moderate"
+      ],
+      "archetypeTags": [
+        "drunk",
+        "jaywalker",
+        "distracted"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 653,
+      "frameEnd": 982,
+      "pedTags": [
+        "ignore-traffic",
+        "observing",
+        "not-sure-cross",
+        "fixated-not-at-incoming-vehicle",
+        "glancing",
+        "run-into-traffic",
+        "back-turned"
+      ],
+      "egoTags": [
+        "gradual-brake",
+        "gradual-acceleration",
+        "honk"
+      ],
+      "sceneTags": [
+        "day",
+        "two-way",
+        "moderate"
+      ],
+      "archetypeTags": [
+        "wanderer",
+        "jaywalker"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 2283,
+      "frameEnd": 2784,
+      "pedTags": [
+        "cross-without-crosswalk",
+        "observing",
+        "looking",
+        "cross",
+        "make-stop",
+        "pause-start",
+        "frozen"
+      ],
+      "egoTags": [
+        "gradual-brake",
+        "halt",
+        "swerve"
+      ],
+      "sceneTags": [
+        "night",
+        "one-way",
+        "no-crosswalk"
+      ],
+      "archetypeTags": [
+        "jaywalker"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 3070,
+      "frameEnd": 3237,
+      "pedTags": [
+        "ignore-traffic",
+        "cross",
+        "not-looking-glancing",
+        "near-miss",
+        "swerve",
+        "brisk-walk",
+        "group-walk",
+        "group-disperse",
+        "cross-on-red",
+        "run-into-traffic",
+        "glancing"
+      ],
+      "egoTags": [],
+      "sceneTags": [
+        "day",
+        "crosswalk",
+        "green",
+        "two-way"
+      ],
+      "archetypeTags": [
+        "flash",
+        "flock",
+        "jaywalker"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 3325,
+      "frameEnd": 3706,
+      "pedTags": [
+        "cross",
+        "fixated-not-at-incoming-vehicle",
+        "not-looking-glancing",
+        "crawling"
+      ],
+      "egoTags": [
+        "make-go"
+      ],
+      "sceneTags": [
+        "day",
+        "crosswalk",
+        "crossing-sign",
+        "two-way"
+      ],
+      "archetypeTags": [
+        "eventful"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 3808,
+      "frameEnd": 4051,
+      "pedTags": [
+        "ignore-traffic",
+        "aggression",
+        "glancing",
+        "observing",
+        "assault",
+        "make-stop",
+        "group-walk",
+        "cross-on-red",
+        "looking",
+        "agitated",
+        "cross"
+      ],
+      "egoTags": [
+        "gradual-brake",
+        "halt"
+      ],
+      "sceneTags": [
+        "day",
+        "two-way",
+        "red",
+        "crosswalk"
+      ],
+      "archetypeTags": [
+        "flock",
+        "jaywalker"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 5419,
+      "frameEnd": 5878,
+      "pedTags": [
+        "ignore-traffic",
+        "aggression",
+        "observing",
+        "cross",
+        "looking",
+        "agitated",
+        "climbing-onto-carhood",
+        "pause-start",
+        "group-walk"
+      ],
+      "egoTags": [
+        "halt",
+        "slow-reverse"
+      ],
+      "sceneTags": [
+        "day",
+        "heavy",
+        "crosswalk",
+        "two-way"
+      ],
+      "archetypeTags": [
+        "eventful",
+	      "flock"
+      ],
+      "additionalNotes": ""
+    }
+  ],
+  "singleFrameAnnotations": []
+}

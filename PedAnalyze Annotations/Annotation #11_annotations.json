@@ -1,0 +1,600 @@
+{
+  "name": "Annotation #11",
+  "fps": 30,
+  "video_path": "https://www.youtube.com/watch?v=YKIbbJ2sqnU",
+  "numberOfSingleFrameAnnotations": 0,
+  "numberOfMultiFrameAnnotations": 23,
+  "multiFrameAnnotations": [
+    {
+      "frameStart": 20,
+      "frameEnd": 130,
+      "pedTags": [
+        "run-into-traffic",
+        "looking",
+        "not-cross",
+        "climbing-onto-carhood"
+      ],
+      "egoTags": [
+        "gradual-brake",
+        "halt"
+      ],
+      "sceneTags": [
+        "day",
+        "none",
+        "no-crosswalk",
+	"one-way"
+      ],
+      "archetypeTags": [
+        "jaywalker",
+        "con-artist"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 200,
+      "frameEnd": 530,
+      "pedTags": [
+        "ignore-traffic",
+        "collision",
+        "slow-down",
+        "not-cross",
+        "not-looking-glancing",
+	"along-lane",
+	"back-turned",
+	"run-into-traffic"
+      ],
+      "egoTags": [
+        "aggressive-brake",
+        "halt"
+      ],
+      "sceneTags": [
+        "night",
+        "none",
+	"no-crosswalk"
+      ],
+      "archetypeTags": [
+        "pseudo-pedestrian",
+        "blind"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 1400,
+      "frameEnd": 1600,
+      "pedTags": [
+        "climbing-onto-carhood",
+        "looking",
+        "not-cross",
+        "along-lane"
+      ],
+      "egoTags": [],
+      "sceneTags": [
+        "day",
+        "none",
+        "no-crosswalk"
+      ],
+      "archetypeTags": [
+        "pseudo-pedestrian",
+        "jaywalker",
+        "parked-pedestrian"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 1940,
+      "frameEnd": 2060,
+      "pedTags": [
+        "fall",
+        "climbing-onto-carhood",
+        "looking",
+        "cross-without-crosswalk",
+        "near-miss"
+      ],
+      "egoTags": [
+        "swerve",
+        "aggressive-brake"
+      ],
+      "sceneTags": [
+        "cloudy",
+        "day",
+        "none",
+        "no-crosswalk",
+        "two-way"
+      ],
+      "archetypeTags": [
+        "jaywalker"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 2950,
+      "frameEnd": 3060,
+      "pedTags": [
+        "collision",
+        "swerve",
+        "along-lane",
+        "not-cross",
+        "looking",
+        "run-into-traffic"
+      ],
+      "egoTags": [
+        "Keep-speed"
+      ],
+      "sceneTags": [
+        "night",
+        "none",
+        "one-way",
+        "no-crosswalk"
+      ],
+      "archetypeTags": [
+        "pseudo-pedestrian"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 3300,
+      "frameEnd": 3450,
+      "pedTags": [
+        "along-lane",
+        "collision",
+        "fall",
+        "crosswalk-detour",
+        "not-cross",
+        "looking"
+      ],
+      "egoTags": [
+        "gradual-brake",
+        "halt"
+      ],
+      "sceneTags": [
+        "day",
+        "none"
+      ],
+      "archetypeTags": [
+        "jaywalker",
+        "con-artist"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 3550,
+      "frameEnd": 3880,
+      "pedTags": [
+        "cross-without-crosswalk",
+        "fall",
+        "not-sure-cross",
+        "looking",
+        "back-turned",
+        "retreat"
+      ],
+      "egoTags": [
+        "gradual-brake",
+        "halt"
+      ],
+      "sceneTags": [
+        "night",
+        "none",
+        "glare-on-windshield"
+      ],
+      "archetypeTags": [
+        "jaywalker",
+        "eventful"
+      ],
+      "additionalNotes": "not really retreat b/c doesn't walk backwards, but does go back"
+    },
+    {
+      "frameStart": 5100,
+      "frameEnd": 5700,
+      "pedTags": [
+        "looking",
+        "along-lane",
+        "fall",
+        "collision",
+        "not-cross",
+        "back-turned",
+        "group-walk",
+        "speed-up"
+      ],
+      "egoTags": [
+        "gradual-brake"
+      ],
+      "sceneTags": [
+        "night",
+        "none",
+        "no-crosswalk",
+        "glare-on-windshield"
+      ],
+      "archetypeTags": [
+        "jaywalker",
+        "flock",
+        "con-artist"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 5950,
+      "frameEnd": 6050,
+      "pedTags": [
+        "swerve",
+        "collision",
+        "looking",
+        "not-cross",
+        "along-lane"
+      ],
+      "egoTags": [
+        "Keep-speed"
+      ],
+      "sceneTags": [
+        "night",
+        "none",
+        "no-crosswalk",
+        "one-way"
+      ],
+      "archetypeTags": [
+        "pseudo-pedestrian",
+        "con-artist"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 6400,
+      "frameEnd": 6800,
+      "pedTags": [
+        "collision",
+        "pop-out-occlusion",
+        "not-cross",
+        "glancing",
+        "thrown-back"
+      ],
+      "egoTags": [
+        "gradual-brake"
+      ],
+      "sceneTags": [
+        "day",
+        "none",
+        "no-crosswalk",
+        "one-way"
+      ],
+      "archetypeTags": [
+        "pseudo-pedestrian"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 6850,
+      "frameEnd": 7880,
+      "pedTags": [
+        "along-lane",
+        "not-cross",
+        "looking",
+        "brisk-walk",
+        "gesturing"
+      ],
+      "egoTags": [
+        "gradual-brake"
+      ],
+      "sceneTags": [
+        "day",
+        "none",
+        "no-crosswalk",
+        "two-way"
+      ],
+      "archetypeTags": [
+        "jaywalker",
+        "wanderer"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 7950,
+      "frameEnd": 8360,
+      "pedTags": [
+        "collision",
+        "not-cross",
+        "looking",
+        "run-into-traffic"
+      ],
+      "egoTags": [
+        "gradual-brake"
+      ],
+      "sceneTags": [
+        "day",
+        "none",
+        "two-way",
+        "no-crosswalk"
+      ],
+      "archetypeTags": [
+        "pseudo-pedestrian",
+        "con-artist"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 8400,
+      "frameEnd": 8700,
+      "pedTags": [
+        "group-walk",
+        "along-lane",
+        "looking",
+        "not-cross",
+        "near-miss",
+        "run-into-traffic"
+      ],
+      "egoTags": [
+        "gradual-brake"
+      ],
+      "sceneTags": [
+        "day",
+        "none",
+        "no-crosswalk"
+      ],
+      "archetypeTags": [
+        "wanderer",
+        "flash",
+        "jaywalker",
+        "flock"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 8730,
+      "frameEnd": 9150,
+      "pedTags": [
+        "fall",
+        "near-miss",
+        "cross-without-crosswalk",
+        "not-sure-cross",
+        "glancing",
+        "back-turned"
+      ],
+      "egoTags": [
+        "aggressive-brake"
+      ],
+      "sceneTags": [
+        "day",
+        "none",
+        "no-crosswalk",
+        "two-way"
+      ],
+      "archetypeTags": [
+        "jaywalker",
+        "con-artist"
+      ],
+      "additionalNotes": "idk if the fall was trying to avoid being hit, trying to be hit (con artist), or purely accidental (eventful)"
+    },
+    {
+      "frameStart": 9250,
+      "frameEnd": 9440,
+      "pedTags": [
+        "drop-object",
+        "not-cross",
+        "looking"
+      ],
+      "egoTags": [
+        "Keep-speed"
+      ],
+      "sceneTags": [
+        "day",
+        "none",
+        "no-crosswalk"
+      ],
+      "archetypeTags": [
+        "con-artist"
+      ],
+      "additionalNotes": "should this be tagged?"
+    },
+    {
+      "frameStart": 9860,
+      "frameEnd": 9970,
+      "pedTags": [
+        "swerve",
+        "not-cross",
+        "looking",
+        "collision"
+      ],
+      "egoTags": [
+        "Keep-speed"
+      ],
+      "sceneTags": [
+        "night",
+        "none",
+        "no-crosswalk"
+      ],
+      "archetypeTags": [
+        "pseudo-pedestrian",
+        "con-artist"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 10800,
+      "frameEnd": 11200,
+      "pedTags": [
+        "climbing-onto-carhood",
+        "looking",
+        "not-cross",
+        "cross-without-crosswalk",
+        "run-into-traffic"
+      ],
+      "egoTags": [
+        "gradual-brake",
+        "halt"
+      ],
+      "sceneTags": [
+        "day",
+        "none",
+        "one-way"
+      ],
+      "archetypeTags": [
+        "jaywalker",
+        "con-artist"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 11230,
+      "frameEnd": 12100,
+      "pedTags": [
+        "fall",
+        "looking",
+        "not-cross",
+        "observing"
+      ],
+      "egoTags": [
+        "slow-reverse",
+        "swerve"
+      ],
+      "sceneTags": [
+        "night",
+        "none",
+        "no-crosswalk",
+        "two-way"
+      ],
+      "archetypeTags": [
+        "con-artist",
+        "jaywalker"
+      ],
+      "additionalNotes": "ig this is fall? frozen? tag for lying on ground?"
+    },
+    {
+      "frameStart": 12190,
+      "frameEnd": 12400,
+      "pedTags": [
+        "group-walk",
+        "group-disperse",
+        "fall",
+        "not-sure-cross",
+        "looking",
+        "cross-without-crosswalk",
+        "climbing-onto-carhood",
+        "collision"
+      ],
+      "egoTags": [
+        "gradual-brake",
+        "halt"
+      ],
+      "sceneTags": [
+        "day",
+        "snowy",
+        "none",
+        "no-crosswalk"
+      ],
+      "archetypeTags": [
+        "jaywalker",
+        "flock",
+        "con-artist"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 12450,
+      "frameEnd": 12700,
+      "pedTags": [
+        "fall",
+        "cross-without-crosswalk",
+        "not-sure-cross",
+        "collision",
+        "back-turned",
+        "not-looking-glancing"
+      ],
+      "egoTags": [
+        "gradual-brake",
+        "halt"
+      ],
+      "sceneTags": [
+        "day",
+        "none",
+        "two-way",
+        "no-crosswalk",
+        "sunny"
+      ],
+      "archetypeTags": [
+        "jaywalker",
+        "con-artist"
+      ],
+      "additionalNotes": "eventful or con artist?"
+    },
+    {
+      "frameStart": 13000,
+      "frameEnd": 13200,
+      "pedTags": [
+        "cross-without-crosswalk",
+        "not-cross",
+        "looking",
+        "climbing-onto-carhood",
+        "run-into-traffic",
+        "collision"
+      ],
+      "egoTags": [
+        "Keep-speed"
+      ],
+      "sceneTags": [
+        "night",
+        "none",
+        "no-crosswalk"
+      ],
+      "archetypeTags": [
+        "con-artist",
+        "jaywalker"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 13350,
+      "frameEnd": 13780,
+      "pedTags": [
+        "along-lane",
+        "near-miss",
+        "not-cross",
+        "not-looking-glancing",
+        "fall",
+        "back-turned"
+      ],
+      "egoTags": [
+        "gradual-brake",
+        "halt",
+        "slow-reverse"
+      ],
+      "sceneTags": [
+        "day",
+        "sunny",
+        "none",
+        "no-crosswalk"
+      ],
+      "archetypeTags": [
+        "con-artist",
+        "jaywalker"
+      ],
+      "additionalNotes": "wanderer?"
+    },
+    {
+      "frameStart": 13810,
+      "frameEnd": 14200,
+      "pedTags": [
+        "along-lane",
+        "cross-without-crosswalk",
+        "not-cross",
+        "fall",
+        "not-looking-glancing",
+        "back-turned"
+      ],
+      "egoTags": [
+        "halt",
+        "gradual-brake"
+      ],
+      "sceneTags": [
+        "day",
+        "none",
+        "cloudy",
+        "no-crosswalk",
+        "two-way"
+      ],
+      "archetypeTags": [
+        "jaywalker",
+        "con-artist"
+      ],
+      "additionalNotes": ""
+    }
+  ],
+  "singleFrameAnnotations": []
+}

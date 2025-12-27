@@ -1,0 +1,1547 @@
+{
+  "name": "Annotation10",
+  "fps": 30,
+  "video_path": "https://www.youtube.com/watch?v=Q1R2I3Z1HA4",
+  "numberOfSingleFrameAnnotations": 0,
+  "numberOfMultiFrameAnnotations": 48,
+  "multiFrameAnnotations": [
+    {
+      "frameStart": 110,
+      "frameEnd": 330,
+      "pedTags": [
+        "dog-walk",
+        "speed-up",
+        "cross-without-crosswalk",
+        "pause-start",
+        "run-into-traffic",
+        "break",
+        "agitated",
+        "cross",
+        "near-miss"
+      ],
+      "egoTags": [
+        "aggressive-brake",
+        "halt",
+        "make-go"
+      ],
+      "sceneTags": [
+        "day",
+        "cloudy",
+        "none",
+        "no-crosswalk",
+        "one-way",
+        "two-way"
+      ],
+      "archetypeTags": [
+        "elderly",
+        "wanderer",
+        "jaywalker"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 340,
+      "frameEnd": 630,
+      "pedTags": [
+        "cross-without-crosswalk",
+        "ignore-traffic",
+        "flinch-in",
+        "flinch-out",
+        "cross",
+        "looking",
+        "run-into-traffic",
+        "brisk-walk",
+        "pop-out-occlusion",
+        "speed-up"
+      ],
+      "egoTags": [
+        "Keep-speed",
+        "aggressive-brake",
+        "halt",
+        "gradual-acceleration"
+      ],
+      "sceneTags": [
+        "day",
+        "sunny",
+        "green",
+        "no-crosswalk",
+        "two-way"
+      ],
+      "archetypeTags": [
+        "flash",
+        "jaywalker"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 700,
+      "frameEnd": 1140,
+      "pedTags": [
+        "cross-without-crosswalk",
+        "pop-out-occlusion",
+        "agitated",
+        "cross",
+        "run-into-traffic",
+        "gesturing",
+        "frozen"
+      ],
+      "egoTags": [
+        "aggressive-brake",
+        "halt",
+        "gradual-brake",
+        "lane-change",
+        "gradual-acceleration",
+        "make-go"
+      ],
+      "sceneTags": [
+        "night",
+        "none",
+        "no-crosswalk",
+        "two-way",
+        "occluded-pedestrian"
+      ],
+      "archetypeTags": [
+        "jaywalker",
+        "eventful"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 1349,
+      "frameEnd": 1525,
+      "pedTags": [
+        "cross-without-crosswalk",
+        "cross-on-red",
+        "ignore-traffic",
+        "run-into-traffic",
+        "cross",
+        "preoccupied",
+        "not-looking-glancing",
+        "fixated-not-at-incoming-vehicle",
+        "near-miss"
+      ],
+      "egoTags": [
+        "aggressive-brake",
+        "halt",
+        "make-go"
+      ],
+      "sceneTags": [
+        "night",
+        "green",
+        "crosswalk"
+      ],
+      "archetypeTags": [
+        "jaywalker",
+        "blind"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 1616,
+      "frameEnd": 1860,
+      "pedTags": [
+        "speed-up",
+        "brisk-walk",
+        "cross-without-crosswalk",
+        "pop-out-occlusion",
+        "run-into-traffic",
+        "flinch-out",
+        "cross",
+        "not-looking-glancing",
+        "glancing",
+        "near-miss"
+      ],
+      "egoTags": [
+        "aggressive-brake",
+        "halt",
+        "make-go"
+      ],
+      "sceneTags": [
+        "day",
+        "cloudy",
+        "no-crosswalk",
+        "two-way",
+        "none"
+      ],
+      "archetypeTags": [
+        "flash",
+        "jaywalker"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 2395,
+      "frameEnd": 2667,
+      "pedTags": [
+        "preoccupied",
+        "back-turned",
+        "cross",
+        "fixated-not-at-incoming-vehicle",
+        "not-looking-glancing",
+        "near-miss",
+        "make-stop",
+        "frozen",
+        "run-into-traffic",
+        "cross-without-crosswalk",
+        "speed-up",
+        "gesturing"
+      ],
+      "egoTags": [
+        "aggressive-brake",
+        "halt",
+        "make-go"
+      ],
+      "sceneTags": [
+        "day",
+        "two-way",
+        "no-crosswalk"
+      ],
+      "archetypeTags": [
+        "distracted",
+        "jaywalker"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 2723,
+      "frameEnd": 2910,
+      "pedTags": [
+        "cross-without-crosswalk",
+        "brisk-walk",
+        "pop-out-occlusion",
+        "speed-up",
+        "cross",
+        "not-looking-glancing",
+        "near-miss",
+        "run-into-traffic",
+        "flinch-out"
+      ],
+      "egoTags": [
+        "aggressive-brake",
+        "halt",
+        "make-go"
+      ],
+      "sceneTags": [
+        "day",
+        "sunny",
+        "no-crosswalk",
+        "none",
+        "occluded-pedestrian",
+        "two-way"
+      ],
+      "archetypeTags": [
+        "flash",
+        "jaywalker"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 3112,
+      "frameEnd": 3443,
+      "pedTags": [
+        "along-lane",
+        "group-walk",
+        "cross-without-crosswalk",
+        "pop-out-occlusion",
+        "ignore-traffic",
+        "run-into-traffic",
+        "break",
+        "cross",
+        "not-looking-glancing",
+        "cautious",
+        "near-miss"
+      ],
+      "egoTags": [
+        "aggressive-acceleration",
+        "aggressive-brake",
+        "halt",
+        "make-go"
+      ],
+      "sceneTags": [
+        "day",
+        "sunny",
+        "no-crosswalk",
+        "two-way",
+        "red",
+        "green",
+        "occluded-pedestrian"
+      ],
+      "archetypeTags": [
+        "flock",
+        "jaywalker",
+        "blind"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 3616,
+      "frameEnd": 4164,
+      "pedTags": [
+        "along-lane",
+        "make-stop",
+        "assault",
+        "climbing-onto-carhood",
+        "aggression",
+        "agitated",
+        "preoccupied",
+        "fixated-not-at-incoming-vehicle",
+        "not-looking-glancing",
+        "gesturing",
+        "back-turned",
+        "ignore-traffic"
+      ],
+      "egoTags": [
+        "gradual-brake",
+        "halt",
+        "lane-change",
+        "swerve"
+      ],
+      "sceneTags": [
+        "night",
+        "none",
+        "no-crosswalk",
+        "one-way"
+      ],
+      "archetypeTags": [
+        "wanderer",
+        "blind"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 4191,
+      "frameEnd": 4662,
+      "pedTags": [
+        "retreat",
+        "cross",
+        "frozen",
+        "run-into-traffic",
+        "near-miss",
+        "looking",
+        "glancing",
+        "crosswalk-detour",
+        "pop-out-occlusion",
+        "cross-without-crosswalk"
+      ],
+      "egoTags": [
+        "swerve",
+        "Keep-speed"
+      ],
+      "sceneTags": [
+        "day",
+        "sunny",
+        "red",
+        "no-crosswalk",
+        "two-way"
+      ],
+      "archetypeTags": [
+        "jaywalker"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 4682,
+      "frameEnd": 5115,
+      "pedTags": [
+        "along-lane",
+        "break",
+        "frozen",
+        "run-into-traffic",
+        "near-miss",
+        "make-go",
+        "not-sure-cross",
+        "looking",
+        "glancing",
+        "observing"
+      ],
+      "egoTags": [
+        "Keep-speed"
+      ],
+      "sceneTags": [
+        "day",
+        "no-crosswalk",
+        "two-way"
+      ],
+      "archetypeTags": [
+        "wanderer",
+        "jaywalker"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 5170,
+      "frameEnd": 5530,
+      "pedTags": [
+        "frozen",
+        "assault",
+        "not-sure-cross",
+        "preoccupied",
+        "agitated",
+        "looking",
+        "aggression",
+        "ignore-traffic",
+        "run-into-traffic",
+        "back-turned",
+        "gesturing",
+        "pop-out-occlusion",
+        "along-lane"
+      ],
+      "egoTags": [
+        "aggressive-brake",
+        "gradual-brake",
+        "halt"
+      ],
+      "sceneTags": [
+        "day",
+        "no-crosswalk",
+        "two-way",
+        "occluded-pedestrian",
+        "none"
+      ],
+      "archetypeTags": [
+        "wanderer",
+        "jaywalker"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 5545,
+      "frameEnd": 5701,
+      "pedTags": [
+        "flinch-out",
+        "run-into-traffic",
+        "ignore-traffic",
+        "cautious",
+        "cross",
+        "looking",
+        "near-miss",
+        "pop-out-occlusion",
+        "cross-without-crosswalk",
+        "brisk-walk"
+      ],
+      "egoTags": [
+        "Keep-speed"
+      ],
+      "sceneTags": [
+        "day",
+        "none",
+        "no-crosswalk",
+        "two-way",
+        "occluded-pedestrian"
+      ],
+      "archetypeTags": [
+        "wanderer",
+        "flash",
+        "jaywalker"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 5842,
+      "frameEnd": 6142,
+      "pedTags": [
+        "preoccupied",
+        "not-sure-cross",
+        "looking",
+        "along-lane",
+        "pop-out-occlusion",
+        "ignore-traffic",
+        "run-into-traffic",
+        "gesturing",
+        "near-miss",
+        "make-stop"
+      ],
+      "egoTags": [
+        "gradual-acceleration",
+        "halt",
+        "gradual-brake"
+      ],
+      "sceneTags": [
+        "day",
+        "green",
+        "no-crosswalk",
+        "two-way",
+        "occluded-pedestrian"
+      ],
+      "archetypeTags": [
+        "wanderer",
+        "jaywalker",
+        "drunk"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 6648,
+      "frameEnd": 6948,
+      "pedTags": [
+        "group-walk",
+        "group-disperse",
+        "speed-up",
+        "cross-without-crosswalk",
+        "gesturing",
+        "make-stop",
+        "run-into-traffic",
+        "ignore-traffic",
+        "break",
+        "looking",
+        "glancing",
+        "cautious",
+        "cross"
+      ],
+      "egoTags": [
+        "gradual-brake",
+        "halt",
+        "make-go"
+      ],
+      "sceneTags": [
+        "night",
+        "none",
+        "no-crosswalk",
+        "two-way"
+      ],
+      "archetypeTags": [
+        "flock",
+        "jaywalker",
+        "kid"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 7100,
+      "frameEnd": 7607,
+      "pedTags": [
+        "fall",
+        "cross-on-red",
+        "brisk-walk",
+        "speed-up",
+        "ignore-traffic",
+        "run-into-traffic",
+        "collision",
+        "glancing",
+        "cross"
+      ],
+      "egoTags": [
+        "aggressive-brake",
+        "halt"
+      ],
+      "sceneTags": [
+        "cloudy",
+        "day",
+        "crosswalk",
+        "yellow",
+        "one-way"
+      ],
+      "archetypeTags": [
+        "flash",
+        "jaywalker"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 8300,
+      "frameEnd": 8938,
+      "pedTags": [
+        "along-lane",
+        "not-sure-cross",
+        "preoccupied",
+        "agitated",
+        "not-looking-glancing",
+        "fixated-not-at-incoming-vehicle",
+        "aggression",
+        "ignore-traffic",
+        "zig-zag",
+        "retreat",
+        "gesturing"
+      ],
+      "egoTags": [
+        "slow-reverse",
+        "halt",
+        "gradual-acceleration",
+        "gradual-brake"
+      ],
+      "sceneTags": [
+        "night",
+        "no-crosswalk",
+        "one-way"
+      ],
+      "archetypeTags": [
+        "wanderer",
+        "jaywalker",
+        "indecisive",
+        "distracted",
+        "blind"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 9487,
+      "frameEnd": 9751,
+      "pedTags": [
+        "retreat",
+        "cross-without-crosswalk",
+        "speed-up",
+        "brisk-walk",
+        "not-looking-glancing",
+        "fixated-not-at-incoming-vehicle",
+        "not-cross",
+        "gesturing",
+        "make-go",
+        "break",
+        "ignore-traffic",
+        "near-miss"
+      ],
+      "egoTags": [
+        "aggressive-acceleration",
+        "aggressive-brake",
+        "gradual-acceleration",
+        "halt"
+      ],
+      "sceneTags": [
+        "day",
+        "cloudy",
+        "no-crosswalk",
+        "two-way"
+      ],
+      "archetypeTags": [
+        "jaywalker",
+        "flash",
+        "distracted"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 10900,
+      "frameEnd": 11152,
+      "pedTags": [
+        "dog-walk",
+        "gesturing",
+        "speed-up",
+        "cross-without-crosswalk",
+        "ignore-traffic",
+        "run-into-traffic",
+        "not-sure-cross",
+        "agitated",
+        "preoccupied",
+        "aggression",
+        "near-miss"
+      ],
+      "egoTags": [
+        "aggressive-brake",
+        "lane-change",
+        "gradual-acceleration"
+      ],
+      "sceneTags": [
+        "day",
+        "cloudy",
+        "none",
+        "two-way"
+      ],
+      "archetypeTags": [
+        "con-artist",
+        "wanderer",
+        "jaywalker"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 11855,
+      "frameEnd": 12279,
+      "pedTags": [
+        "fixated-not-at-incoming-vehicle",
+        "not-looking-glancing",
+        "collision",
+        "cross-without-crosswalk",
+        "back-turned"
+      ],
+      "egoTags": [
+        "aggressive-brake",
+        "halt"
+      ],
+      "sceneTags": [
+        "day",
+        "cloudy",
+        "no-crosswalk",
+        "two-way"
+      ],
+      "archetypeTags": [
+        "distracted"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 13093,
+      "frameEnd": 13360,
+      "pedTags": [
+        "slow-down",
+        "cross-on-red",
+        "pop-out-occlusion",
+        "run-into-traffic",
+        "flinch-in",
+        "collision",
+        "cross",
+        "fixated-not-at-incoming-vehicle",
+        "glancing"
+      ],
+      "egoTags": [
+        "aggressive-brake",
+        "halt"
+      ],
+      "sceneTags": [
+        "night",
+        "rainy",
+        "occluded-pedestrian",
+        "two-way",
+        "crosswalk",
+        "green"
+      ],
+      "archetypeTags": [
+        "flash",
+        "jaywalker"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 14517,
+      "frameEnd": 15105,
+      "pedTags": [
+        "cross-without-crosswalk",
+        "drop-object",
+        "fall",
+        "run-into-traffic",
+        "ignore-traffic",
+        "collision",
+        "not-looking-glancing",
+        "fixated-not-at-incoming-vehicle",
+        "preoccupied"
+      ],
+      "egoTags": [
+        "Keep-speed"
+      ],
+      "sceneTags": [
+        "day",
+        "cloudy",
+        "two-way",
+        "no-crosswalk"
+      ],
+      "archetypeTags": [
+        "distracted",
+        "jaywalker",
+        "blind"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 15364,
+      "frameEnd": 15605,
+      "pedTags": [
+        "retreat",
+        "not-cross",
+        "not-looking-glancing",
+        "fixated-not-at-incoming-vehicle",
+        "preoccupied",
+        "run-into-traffic",
+        "ignore-traffic",
+        "near-miss",
+        "frozen",
+        "cross-without-crosswalk"
+      ],
+      "egoTags": [
+        "halt",
+        "gradual-acceleration"
+      ],
+      "sceneTags": [
+        "cloudy",
+        "day",
+        "no-crosswalk",
+        "none",
+        "two-way"
+      ],
+      "archetypeTags": [
+        "jaywalker",
+        "blind",
+        "distracted"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 16132,
+      "frameEnd": 17050,
+      "pedTags": [
+        "dog-walk",
+        "slow-down",
+        "cross-on-red",
+        "run-into-traffic",
+        "aggression",
+        "not-sure-cross",
+        "agitated",
+        "make-stop",
+        "frozen",
+        "ignore-traffic",
+        "gesturing"
+      ],
+      "egoTags": [
+        "gradual-brake",
+        "halt"
+      ],
+      "sceneTags": [
+        "night",
+        "crosswalk",
+        "green",
+        "two-way"
+      ],
+      "archetypeTags": [
+        "wanderer",
+        "jaywalker"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 17173,
+      "frameEnd": 17631,
+      "pedTags": [
+        "cross",
+        "agitated",
+        "assault",
+        "aggression",
+        "run-into-traffic",
+        "frozen",
+        "near-miss",
+        "gesturing",
+        "ignore-traffic",
+        "fixated-not-at-incoming-vehicle"
+      ],
+      "egoTags": [
+        "gradual-brake",
+        "gradual-acceleration",
+        "halt",
+        "make-go"
+      ],
+      "sceneTags": [
+        "day",
+        "one-way",
+        "green",
+        "crosswalk"
+      ],
+      "archetypeTags": [
+        "wanderer",
+        "distracted"
+      ],
+      "additionalNotes": "Fighter"
+    },
+    {
+      "frameStart": 18060,
+      "frameEnd": 18460,
+      "pedTags": [
+        "speed-up",
+        "brisk-walk",
+        "drop-object",
+        "pickup-object",
+        "back-turned",
+        "run-into-traffic",
+        "cross-without-crosswalk",
+        "fall",
+        "collision",
+        "ignore-traffic",
+        "gesturing",
+        "cross",
+        "fixated-not-at-incoming-vehicle"
+      ],
+      "egoTags": [
+        "aggressive-brake",
+        "halt",
+        "make-go"
+      ],
+      "sceneTags": [
+        "day",
+        "no-crosswalk",
+        "none",
+        "two-way"
+      ],
+      "archetypeTags": [
+        "flash",
+        "jaywalker",
+        "blind"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 18529,
+      "frameEnd": 18656,
+      "pedTags": [
+        "speed-up",
+        "break",
+        "run-into-traffic",
+        "looking",
+        "glancing",
+        "cross",
+        "cross-without-crosswalk",
+        "ignore-traffic",
+        "flinch-out",
+        "pause-start",
+        "flinch-in",
+        "near-miss"
+      ],
+      "egoTags": [
+        "aggressive-brake",
+        "make-go"
+      ],
+      "sceneTags": [
+        "day",
+        "no-crosswalk",
+        "cloudy",
+        "none",
+        "one-way"
+      ],
+      "archetypeTags": [
+        "flash",
+        "jaywalker"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 18811,
+      "frameEnd": 19145,
+      "pedTags": [
+        "retreat",
+        "pause-start",
+        "fixated-not-at-incoming-vehicle",
+        "not-looking-glancing",
+        "cross",
+        "collision"
+      ],
+      "egoTags": [
+        "gradual-acceleration",
+        "halt"
+      ],
+      "sceneTags": [
+        "day",
+        "crosswalk",
+        "red",
+        "two-way"
+      ],
+      "archetypeTags": [
+        "distracted",
+        "blind"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 19576,
+      "frameEnd": 20210,
+      "pedTags": [
+        "drop-object",
+        "pickup-object",
+        "cross",
+        "flinch-out",
+        "near-miss",
+        "speed-up",
+        "retreat",
+        "brisk-walk",
+        "run-into-traffic",
+        "cross-on-red",
+        "agitated"
+      ],
+      "egoTags": [
+        "swerve",
+        "aggressive-acceleration"
+      ],
+      "sceneTags": [
+        "night",
+        "green",
+        "crosswalk",
+        "two-way",
+        "light"
+      ],
+      "archetypeTags": [
+        "jaywalker",
+        "protester"
+      ],
+      "additionalNotes": "confronted"
+    },
+    {
+      "frameStart": 20324,
+      "frameEnd": 20432,
+      "pedTags": [
+        "not-sure-cross",
+        "cautious",
+        "glancing",
+        "looking",
+        "preoccupied",
+        "observing",
+        "ignore-traffic",
+        "frozen",
+        "break",
+        "cross-without-crosswalk"
+      ],
+      "egoTags": [
+        "Keep-speed"
+      ],
+      "sceneTags": [
+        "day",
+        "cloudy",
+        "no-crosswalk",
+        "two-way",
+        "none"
+      ],
+      "archetypeTags": [
+        "jaywalker",
+        "distracted"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 20837,
+      "frameEnd": 21063,
+      "pedTags": [
+        "cross-without-crosswalk",
+        "ignore-traffic",
+        "run-into-traffic",
+        "fixated-not-at-incoming-vehicle",
+        "cross",
+        "not-looking-glancing"
+      ],
+      "egoTags": [
+        "gradual-brake",
+        "make-go"
+      ],
+      "sceneTags": [
+        "day",
+        "cloudy",
+        "none",
+        "no-crosswalk",
+        "two-way"
+      ],
+      "archetypeTags": [
+        "jaywalker",
+        "blind"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 21079,
+      "frameEnd": 21334,
+      "pedTags": [
+        "cross-without-crosswalk",
+        "back-turned",
+        "ignore-traffic",
+        "run-into-traffic",
+        "not-looking-glancing",
+        "fixated-not-at-incoming-vehicle",
+        "cross"
+      ],
+      "egoTags": [
+        "gradual-brake",
+        "right-turn"
+      ],
+      "sceneTags": [
+        "day",
+        "cloudy",
+        "none",
+        "intersection",
+        "one-way",
+        "no-crosswalk"
+      ],
+      "archetypeTags": [
+        "jaywalker",
+        "blind"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 21450,
+      "frameEnd": 21754,
+      "pedTags": [
+        "break",
+        "run-into-traffic",
+        "near-miss",
+        "flinch-out",
+        "cross-without-crosswalk",
+        "speed-up",
+        "cross",
+        "glancing"
+      ],
+      "egoTags": [
+        "aggressive-brake",
+        "make-go",
+        "gradual-acceleration",
+        "halt"
+      ],
+      "sceneTags": [],
+      "archetypeTags": [
+        "jaywalker"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 21868,
+      "frameEnd": 21995,
+      "pedTags": [
+        "fixated-not-at-incoming-vehicle",
+        "not-looking-glancing",
+        "cross",
+        "preoccupied",
+        "run-into-traffic",
+        "ignore-traffic",
+        "cross-without-crosswalk"
+      ],
+      "egoTags": [
+        "Keep-speed"
+      ],
+      "sceneTags": [
+        "day",
+        "sunny",
+        "no-crosswalk",
+        "two-way",
+        "none"
+      ],
+      "archetypeTags": [
+        "jaywalker",
+        "blind"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 22108,
+      "frameEnd": 22252,
+      "pedTags": [
+        "cross-without-crosswalk",
+        "pop-out-occlusion",
+        "collision",
+        "thrown-back",
+        "glancing",
+        "fixated-not-at-incoming-vehicle",
+        "not-looking-glancing",
+        "run-into-traffic",
+        "slow-down"
+      ],
+      "egoTags": [
+        "swerve",
+        "Keep-speed"
+      ],
+      "sceneTags": [
+        "day",
+        "cloudy",
+        "no-crosswalk",
+        "none",
+        "two-way",
+        "occluded-pedestrian"
+      ],
+      "archetypeTags": [
+        "jaywalker",
+        "flash",
+        "distracted"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 22305,
+      "frameEnd": 22716,
+      "pedTags": [
+        "speed-up",
+        "not-sure-cross",
+        "fixated-not-at-incoming-vehicle",
+        "not-looking-glancing",
+        "preoccupied",
+        "back-turned",
+        "ignore-traffic"
+      ],
+      "egoTags": [
+        "halt",
+        "gradual-brake",
+        "make-go"
+      ],
+      "sceneTags": [
+        "day",
+        "sunny",
+        "crosswalk",
+        "none",
+        "two-way"
+      ],
+      "archetypeTags": [
+        "wanderer",
+        "jaywalker",
+        "distracted"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 22822,
+      "frameEnd": 23006,
+      "pedTags": [
+        "speed-up",
+        "cross-without-crosswalk",
+        "brisk-walk",
+        "run-into-traffic",
+        "near-miss",
+        "cross",
+        "fixated-not-at-incoming-vehicle",
+        "not-looking-glancing"
+      ],
+      "egoTags": [
+        "gradual-brake",
+        "Keep-speed"
+      ],
+      "sceneTags": [
+        "night",
+        "cloudy",
+        "no-crosswalk",
+        "none"
+      ],
+      "archetypeTags": [
+        "jaywalker",
+        "blind"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 23167,
+      "frameEnd": 23318,
+      "pedTags": [
+        "brisk-walk",
+        "run-into-traffic",
+        "ignore-traffic",
+        "cross",
+        "not-looking-glancing",
+        "fixated-not-at-incoming-vehicle",
+        "cross-on-red",
+        "near-miss"
+      ],
+      "egoTags": [
+        "aggressive-brake",
+        "halt",
+        "gradual-acceleration"
+      ],
+      "sceneTags": [
+        "night",
+        "green",
+        "crosswalk",
+        "two-way"
+      ],
+      "archetypeTags": [
+        "flash",
+        "jaywalker",
+        "blind"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 23440,
+      "frameEnd": 23643,
+      "pedTags": [
+        "speed-up",
+        "not-sure-cross",
+        "looking",
+        "agitated",
+        "aggression",
+        "run-into-traffic",
+        "near-miss",
+        "frozen",
+        "slow-down",
+        "cross-without-crosswalk",
+        "brisk-walk"
+      ],
+      "egoTags": [
+        "aggressive-brake",
+        "halt",
+        "make-go"
+      ],
+      "sceneTags": [
+        "day",
+        "cloudy",
+        "none",
+        "no-crosswalk",
+        "two-way"
+      ],
+      "archetypeTags": [
+        "jaywalker",
+        "wanderer"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 23778,
+      "frameEnd": 24069,
+      "pedTags": [
+        "frozen",
+        "speed-up",
+        "not-looking-glancing",
+        "fixated-not-at-incoming-vehicle",
+        "cross",
+        "glancing",
+        "near-miss"
+      ],
+      "egoTags": [
+        "aggressive-acceleration",
+        "left-turn"
+      ],
+      "sceneTags": [
+        "day",
+        "sunny",
+        "crosswalk",
+        "intersection",
+        "two-way",
+        "none"
+      ],
+      "archetypeTags": [
+        "blind"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 24148,
+      "frameEnd": 24438,
+      "pedTags": [
+        "retreat",
+        "brisk-walk",
+        "gesturing",
+        "run-into-traffic",
+        "ignore-traffic",
+        "near-miss",
+        "not-cross",
+        "not-looking-glancing",
+        "fixated-not-at-incoming-vehicle",
+        "pause-start",
+        "break",
+        "along-lane",
+        "cross-on-red"
+      ],
+      "egoTags": [
+        "right-turn",
+        "halt"
+      ],
+      "sceneTags": [
+        "day",
+        "cloudy",
+        "crosswalk",
+        "green",
+        "intersection",
+        "two-way"
+      ],
+      "archetypeTags": [
+        "indecisive",
+        "jaywalker"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 25532,
+      "frameEnd": 25902,
+      "pedTags": [
+        "pop-out-occlusion",
+        "cross-on-red",
+        "retreat",
+        "speed-up",
+        "gesturing",
+        "near-miss",
+        "glancing",
+        "cross",
+        "looking",
+        "ignore-traffic",
+        "run-into-traffic"
+      ],
+      "egoTags": [
+        "aggressive-brake",
+        "halt"
+      ],
+      "sceneTags": [
+        "night",
+        "green",
+        "crosswalk",
+        "two-way"
+      ],
+      "archetypeTags": [
+        "jaywalker"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 25989,
+      "frameEnd": 26397,
+      "pedTags": [
+        "trip",
+        "fall",
+        "speed-up",
+        "cross-without-crosswalk",
+        "crawling",
+        "ignore-traffic",
+        "run-into-traffic",
+        "near-miss",
+        "glancing",
+        "looking",
+        "cross"
+      ],
+      "egoTags": [
+        "aggressive-brake",
+        "halt",
+        "gradual-acceleration"
+      ],
+      "sceneTags": [
+        "night",
+        "none",
+        "no-crosswalk",
+        "two-way"
+      ],
+      "archetypeTags": [
+        "jaywalker",
+        "eventful"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 26561,
+      "frameEnd": 26954,
+      "pedTags": [
+        "not-cross",
+        "preoccupied",
+        "looking",
+        "ignore-traffic",
+        "frozen",
+        "run-into-traffic"
+      ],
+      "egoTags": [
+        "aggressive-brake",
+        "halt"
+      ],
+      "sceneTags": [
+        "day",
+        "cloudy",
+        "no-crosswalk",
+        "two-way"
+      ],
+      "archetypeTags": [
+        "protester"
+      ],
+      "additionalNotes": "dude jus sat there"
+    },
+    {
+      "frameStart": 27110,
+      "frameEnd": 27520,
+      "pedTags": [
+        "collision",
+        "thrown-back",
+        "ignore-traffic",
+        "not-looking-glancing",
+        "fixated-not-at-incoming-vehicle",
+        "not-sure-cross",
+        "preoccupied",
+        "back-turned",
+        "crawling",
+        "cross-without-crosswalk"
+      ],
+      "egoTags": [
+        "aggressive-brake",
+        "halt"
+      ],
+      "sceneTags": [
+        "night",
+        "none",
+        "no-crosswalk",
+        "highway",
+        "two-way"
+      ],
+      "archetypeTags": [
+        "wanderer",
+        "jaywalker",
+        "distracted"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 27682,
+      "frameEnd": 27897,
+      "pedTags": [
+        "not-sure-cross",
+        "looking",
+        "ignore-traffic",
+        "near-miss",
+        "gesturing"
+      ],
+      "egoTags": [
+        "lane-change",
+        "gradual-brake"
+      ],
+      "sceneTags": [
+        "day",
+        "sunny",
+        "no-crosswalk",
+        "none",
+        "two-way",
+        "snowy"
+      ],
+      "archetypeTags": [
+        "wanderer",
+        "jaywalker"
+      ],
+      "additionalNotes": "crazy dude"
+    },
+    {
+      "frameStart": 27974,
+      "frameEnd": 28114,
+      "pedTags": [
+        "fall",
+        "retreat",
+        "crawling",
+        "cross-without-crosswalk",
+        "pop-out-occlusion",
+        "run-into-traffic",
+        "ignore-traffic",
+        "near-miss",
+        "looking",
+        "not-cross"
+      ],
+      "egoTags": [
+        "aggressive-brake",
+        "halt"
+      ],
+      "sceneTags": [
+        "day",
+        "cloudy",
+        "none",
+        "no-crosswalk",
+        "two-way"
+      ],
+      "archetypeTags": [
+        "eventful",
+        "jaywalker"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 28486,
+      "frameEnd": 28665,
+      "pedTags": [
+        "drop-object",
+        "pickup-object",
+        "cross-without-crosswalk",
+        "near-miss",
+        "flinch-out",
+        "run-into-traffic",
+        "ignore-traffic",
+        "pause-start",
+        "break",
+        "not-sure-cross",
+        "glancing",
+        "cautious",
+        "looking"
+      ],
+      "egoTags": [
+        "swerve",
+        "Keep-speed"
+      ],
+      "sceneTags": [
+        "day",
+        "cloudy",
+        "no-crosswalk",
+        "two-way",
+        "none"
+      ],
+      "archetypeTags": [
+        "jaywalker",
+        "indecisive",
+        "distracted"
+      ],
+      "additionalNotes": ""
+    }
+  ],
+  "singleFrameAnnotations": []
+}

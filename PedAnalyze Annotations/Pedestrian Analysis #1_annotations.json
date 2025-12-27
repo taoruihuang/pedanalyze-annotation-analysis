@@ -1,0 +1,38 @@
+{
+  "name": "Pedestrian Analysis #1",
+  "fps": 30,
+  "video_path": "https://youtu.be/Hw8Njip0E_o?si=ys2oJeT80VmFtho6",
+  "numberOfSingleFrameAnnotations": 0,
+  "numberOfMultiFrameAnnotations": 1,
+  "multiFrameAnnotations": [
+    {
+      "frameStart": 523,
+      "frameEnd": 695,
+      "pedTags": [
+        "cross-without-crosswalk",
+        "ignore-traffic",
+        "gesturing",
+        "glancing",
+        "not-looking-glancing",
+        "fixated-not-at-incoming-vehicle"
+      ],
+      "egoTags": [
+        "swerve",
+        "gradual-acceleration"
+      ],
+      "sceneTags": [
+        "day",
+        "cloudy",
+        "two-way",
+        "occluded-pedestrian",
+        "stop-sign",
+        "no-crosswalk"
+      ],
+      "archetypeTags": [
+        "distracted"
+      ],
+      "additionalNotes": ""
+    }
+  ],
+  "singleFrameAnnotations": []
+}

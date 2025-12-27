@@ -1,0 +1,266 @@
+{
+  "name": "Annotation #6",
+  "fps": 30,
+  "video_path": "https://www.youtube.com/watch?v=rACdRIxji00",
+  "numberOfSingleFrameAnnotations": 0,
+  "numberOfMultiFrameAnnotations": 9,
+  "multiFrameAnnotations": [
+    {
+      "frameStart": 200,
+      "frameEnd": 560,
+      "pedTags": [
+        "cross",
+        "assault",
+        "looking",
+	"pause-start",
+	"frozen",
+        "crosswalk-detour",
+        "aggression"
+      ],
+      "egoTags": [
+        "gradual-brake",
+	"halt",
+	"slow-reverse"
+      ],
+      "sceneTags": [
+        "day",
+        "sunny",
+        "none",
+        "crossing-sign"
+      ],
+      "archetypeTags": [
+        "drunk"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 800,
+      "frameEnd": 1500,
+      "pedTags": [
+        "looking",
+        "not-cross",
+	"along-lane",
+        "slow-down",
+        "climbing-onto-carhood"
+      ],
+      "egoTags": [
+        "gradual-brake",
+        "halt"
+      ],
+      "sceneTags": [
+        "night",
+        "none",
+        "two-way",
+        "no-crosswalk"
+      ],
+      "archetypeTags": [
+        "drunk",
+        "jaywalker",
+	"wanderer"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 1880,
+      "frameEnd": 2080,
+      "pedTags": [
+        "not-cross",
+        "looking",
+        "pop-out-occlusion",
+        "dancing",
+        "gesturing",
+	"frozen"
+      ],
+      "egoTags": [
+        "gradual-brake",
+	"halt"
+      ],
+      "sceneTags": [
+        "day",
+        "cloudy",
+        "none",
+        "no-crosswalk",
+	"highway"
+      ],
+      "archetypeTags": [
+        "drunk",
+        "jaywalker"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 2200,
+      "frameEnd": 3400,
+      "pedTags": [
+        "looking",
+        "along-lane",
+        "not-cross",
+        "fall",
+        "gesturing",
+	"frozen"
+      ],
+      "egoTags": [
+        "halt",
+        "gradual-brake",
+	"honk"
+      ],
+      "sceneTags": [
+        "green",
+        "night",
+        "two-way",
+	"no-crosswalk",
+	"glare-on-windshield",
+	"none"
+      ],
+      "archetypeTags": [
+        "drunk",
+        "wanderer",
+        "jaywalker"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 3550,
+      "frameEnd": 5300,
+      "pedTags": [
+        "looking",
+        "not-cross",
+	"brisk-walk",
+	"along-lane",
+	"run-into-traffic",
+	"near-miss",
+	"frozen"
+      ],
+      "egoTags": [
+        "halt",
+        "gradual-brake",
+	"swerve"
+      ],
+      "sceneTags": [
+        "night",
+        "none",
+        "no-crosswalk",
+        "two-way"
+      ],
+      "archetypeTags": [
+        "drunk",
+	"wanderer",
+        "jaywalker"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 5400,
+      "frameEnd": 6700,
+      "pedTags": [
+        "pop-out-occlusion",
+	"along-lane",
+	"looking",
+	"speed-up",
+        "not-cross",
+        "climbing-onto-carhood"
+      ],
+      "egoTags": [
+        "gradual-brake",
+        "halt"
+      ],
+      "sceneTags": [
+        "day",
+        "cloudy",
+        "two-way",
+        "none",
+        "no-crosswalk"
+      ],
+      "archetypeTags": [
+        "drunk",
+	"wanderer",
+        "jaywalker"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 6900,
+      "frameEnd": 7650,
+      "pedTags": [
+        "looking",
+        "not-cross",
+        "observing",
+        "flinch-in",
+	"along-lane"
+      ],
+      "egoTags": [
+        "swerve",
+	"agressive-brake",
+        "halt"
+      ],
+      "sceneTags": [
+        "snowy",
+        "day",
+        "no-crosswalk",
+        "two-way",
+        "none"
+      ],
+      "archetypeTags": [
+        "jaywalker",
+        "wanderer"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 7690,
+      "frameEnd": 10050,
+      "pedTags": [
+        "aggression",
+        "assault",
+        "looking",
+        "not-cross",
+        "dancing",
+        "cross-without-crosswalk",
+        "gesturing",
+        "along-lane"
+      ],
+      "egoTags": [],
+      "sceneTags": [
+        "day",
+        "cloudy",
+	"snowy",
+        "none",
+        "no-crosswalk"
+      ],
+      "archetypeTags": [
+        "wanderer",
+        "drunk",
+        "jaywalker"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 10100,
+      "frameEnd": 11800,
+      "pedTags": [
+	"trip",
+        "aggression",
+        "assault",
+        "looking",
+        "not-cross",
+	"fall"
+      ],
+      "egoTags": [],
+      "sceneTags": [
+        "day",
+        "cloudy",
+	"snowy",
+        "no-crosswalk",
+        "none"
+      ],
+      "archetypeTags": [
+        "drunk",
+        "jaywalker",
+        "parked-pedestrian",
+        "eventful"
+      ],
+      "additionalNotes": ""
+    }
+  ],
+  "singleFrameAnnotations": []
+}

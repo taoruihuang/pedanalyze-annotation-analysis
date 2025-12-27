@@ -1,0 +1,38 @@
+{
+  "name": "Annotation #24",
+  "fps": 30,
+  "video_path": "https://www.youtube.com/watch?v=gxfD7gAHR7E",
+  "numberOfSingleFrameAnnotations": 0,
+  "numberOfMultiFrameAnnotations": 1,
+  "multiFrameAnnotations": [
+    {
+      "frameStart": 100,
+      "frameEnd": 400,
+      "pedTags": [
+        "group-walk",
+        "cross-without-crosswalk",
+        "not-looking-glancing",
+        "ignore-traffic",
+        "cross"
+      ],
+      "egoTags": [
+        "left-turn"
+      ],
+      "sceneTags": [
+        "day",
+        "sunny",
+        "green",
+        "intersection",
+        "two-way"
+      ],
+      "archetypeTags": [
+        "kid",
+        "flock",
+        "jaywalker",
+        "blind"
+      ],
+      "additionalNotes": ""
+    }
+  ],
+  "singleFrameAnnotations": []
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Annotation #19",
+  "fps": 30,
+  "video_path": "https://www.youtube.com/watch?v=jWjroLAuRmQ",
+  "numberOfSingleFrameAnnotations": 0,
+  "numberOfMultiFrameAnnotations": 1,
+  "multiFrameAnnotations": [
+    {
+      "frameStart": 170,
+      "frameEnd": 250,
+      "pedTags": [
+        "back-turned",
+        "run-into-traffic",
+        "ignore-traffic",
+        "not-looking-glancing",
+        "cross",
+        "cross-without-crosswalk"
+      ],
+      "egoTags": [
+        "aggressive-brake",
+        "halt"
+      ],
+      "sceneTags": [
+        "day",
+        "cloudy",
+        "none",
+        "no-crosswalk",
+        "one-way"
+      ],
+      "archetypeTags": [
+        "jaywalker",
+        "blind"
+      ],
+      "additionalNotes": ""
+    }
+  ],
+  "singleFrameAnnotations": []
+}

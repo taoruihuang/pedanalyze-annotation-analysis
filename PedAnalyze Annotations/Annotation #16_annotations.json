@@ -1,0 +1,37 @@
+{
+  "name": "Annotation #16",
+  "fps": 30,
+  "video_path": "https://www.youtube.com/watch?v=XoMLQtKbvLs",
+  "numberOfSingleFrameAnnotations": 0,
+  "numberOfMultiFrameAnnotations": 1,
+  "multiFrameAnnotations": [
+    {
+      "frameStart": 650,
+      "frameEnd": 950,
+      "pedTags": [
+        "retreat",
+        "group-walk",
+        "along-lane",
+        "not-cross",
+        "looking",
+        "ignore-traffic",
+        "observing"
+      ],
+      "egoTags": [
+        "aggressive-acceleration"
+      ],
+      "sceneTags": [
+        "day",
+        "one-way",
+        "no-crosswalk",
+        "none"
+      ],
+      "archetypeTags": [
+        "protester",
+        "flock"
+      ],
+      "additionalNotes": ""
+    }
+  ],
+  "singleFrameAnnotations": []
+}

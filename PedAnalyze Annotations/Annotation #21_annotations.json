@@ -1,0 +1,37 @@
+{
+  "name": "Annotation #21",
+  "fps": 30,
+  "video_path": "https://www.youtube.com/watch?v=yV1o1EemYIE",
+  "numberOfSingleFrameAnnotations": 0,
+  "numberOfMultiFrameAnnotations": 1,
+  "multiFrameAnnotations": [
+    {
+      "frameStart": 100,
+      "frameEnd": 300,
+      "pedTags": [
+        "group-walk",
+        "cross",
+        "not-looking-glancing",
+        "ignore-traffic",
+        "cross-on-red",
+        "crosswalk-detour"
+      ],
+      "egoTags": [
+        "halt"
+      ],
+      "sceneTags": [
+        "day",
+        "cloudy",
+        "none",
+        "intersection"
+      ],
+      "archetypeTags": [
+        "jaywalker",
+        "blind",
+        "flock"
+      ],
+      "additionalNotes": ""
+    }
+  ],
+  "singleFrameAnnotations": []
+}

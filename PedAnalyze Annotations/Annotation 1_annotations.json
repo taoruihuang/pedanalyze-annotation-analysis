@@ -1,0 +1,33 @@
+{
+  "name": "Annotation 1",
+  "fps": 30,
+  "video_path": "https://youtu.be/dR2h8xD6dPI?si=eFOmFK7jtBjVryNS",
+  "numberOfSingleFrameAnnotations": 0,
+  "numberOfMultiFrameAnnotations": 1,
+  "multiFrameAnnotations": [
+    {
+      "frameStart": 2063,
+      "frameEnd": 3243,
+      "pedTags": [
+        "brisk-walk",
+        "fall",
+        "pop-out-occlusion",
+        "cross-without-crosswalk"
+      ],
+      "egoTags": [
+        "aggressive-brake"
+      ],
+      "sceneTags": [
+        "snowy",
+        "day",
+        "one-way",
+        "no-crosswalk"
+      ],
+      "archetypeTags": [
+        "flash"
+      ],
+      "additionalNotes": ""
+    }
+  ],
+  "singleFrameAnnotations": []
+}

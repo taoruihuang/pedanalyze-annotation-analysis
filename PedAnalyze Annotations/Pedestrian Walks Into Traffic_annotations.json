@@ -1,0 +1,101 @@
+{
+  "name": "Pedestrian Walks Into Traffic",
+  "fps": 30,
+  "video_path": "https://www.youtube.com/watch?v=qL2phWOqpJA",
+  "multiFrameAnnotations": [
+    {
+      "frameStart": 269,
+      "frameEnd": 447,
+      "pedTags": [
+        [
+          "cross",
+          "Cross"
+        ],
+        [
+          "cross-on-red",
+          "Cross on red"
+        ],
+        [
+          "distracted",
+          "Distracted"
+        ]
+      ],
+      "egoTags": [],
+      "sceneTags": [
+        [
+          "day",
+          "Day"
+        ],
+        [
+          "sunny",
+          "Sunny"
+        ],
+        [
+          "red",
+          "Red"
+        ],
+        [
+          "crosswalk",
+          "Crosswalk"
+        ],
+        [
+          "moderate",
+          "Moderate Traffic"
+        ],
+        [
+          "two-way",
+          "Two way"
+        ]
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 447,
+      "frameEnd": 506,
+      "pedTags": [
+        [
+          "frozen",
+          "Frozen"
+        ],
+        [
+          "near-miss",
+          "Near miss"
+        ],
+        [
+          "flinch-out",
+          "Flinch out"
+        ]
+      ],
+      "egoTags": [
+        [
+          "swerve",
+          "Swerve"
+        ]
+      ],
+      "sceneTags": [
+        [
+          "day",
+          "Day"
+        ],
+        [
+          "sunny",
+          "Sunny"
+        ],
+        [
+          "green",
+          "Green"
+        ],
+        [
+          "moderate",
+          "Moderate Traffic"
+        ],
+        [
+          "two-way",
+          "Two way"
+        ]
+      ],
+      "additionalNotes": ""
+    }
+  ],
+  "singleFrameAnnotations": []
+}

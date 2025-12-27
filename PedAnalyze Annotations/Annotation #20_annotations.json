@@ -1,0 +1,38 @@
+{
+  "name": "Annotation #20",
+  "fps": 30,
+  "video_path": "https://www.youtube.com/watch?v=a8JqJxNSwN0",
+  "numberOfSingleFrameAnnotations": 0,
+  "numberOfMultiFrameAnnotations": 1,
+  "multiFrameAnnotations": [
+    {
+      "frameStart": 130,
+      "frameEnd": 280,
+      "pedTags": [
+        "cross-on-red",
+        "cross",
+        "not-looking-glancing",
+        "ignore-traffic",
+        "near-miss",
+        "run-into-traffic"
+      ],
+      "egoTags": [
+        "Keep-speed"
+      ],
+      "sceneTags": [
+        "green",
+        "yellow",
+        "intersection",
+        "day",
+        "crosswalk"
+      ],
+      "archetypeTags": [
+        "pseudo-pedestrian",
+        "blind",
+        "jaywalker"
+      ],
+      "additionalNotes": ""
+    }
+  ],
+  "singleFrameAnnotations": []
+}

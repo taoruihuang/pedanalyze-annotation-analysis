@@ -1,0 +1,241 @@
+{
+  "name": "Annotation #13",
+  "fps": 30,
+  "video_path": "https://www.youtube.com/watch?v=Cvtb6kBIHgg",
+  "numberOfSingleFrameAnnotations": 0,
+  "numberOfMultiFrameAnnotations": 8,
+  "multiFrameAnnotations": [
+    {
+      "frameStart": 440,
+      "frameEnd": 550,
+      "pedTags": [
+        "collision",
+        "ignore-traffic",
+        "not-looking-glancing",
+        "preoccupied",
+        "fixated-not-at-incoming-vehicle",
+        "cross",
+        "cross-without-crosswalk",
+        "cross-on-red",
+        "run-into-traffic"
+      ],
+      "egoTags": [
+        "Keep-speed",
+        "honk"
+      ],
+      "sceneTags": [
+        "day",
+        "two-way",
+        "green"
+      ],
+      "archetypeTags": [
+        "distracted",
+        "blind",
+        "jaywalker"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 570,
+      "frameEnd": 710,
+      "pedTags": [
+        "cross",
+        "not-looking-glancing",
+        "fixated-not-at-incoming-vehicle",
+        "preoccupied",
+        "cross-without-crosswalk",
+        "break",
+        "near-miss"
+      ],
+      "egoTags": [
+        "Keep-speed"
+      ],
+      "sceneTags": [
+        "day",
+        "cloudy",
+        "none",
+        "no-crosswalk"
+      ],
+      "archetypeTags": [
+        "jaywalker",
+        "distracted"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 1140,
+      "frameEnd": 1220,
+      "pedTags": [
+        "fixated-not-at-incoming-vehicle",
+        "preoccupied",
+        "cross",
+        "not-looking-glancing",
+        "ignore-traffic",
+        "run-into-traffic",
+        "near-miss",
+        "cross-without-crosswalk"
+      ],
+      "egoTags": [
+        "Keep-speed"
+      ],
+      "sceneTags": [
+        "day",
+        "cloudy",
+        "none",
+        "no-crosswalk",
+        "two-way"
+      ],
+      "archetypeTags": [
+        "jaywalker",
+        "blind",
+        "distracted"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 1520,
+      "frameEnd": 1680,
+      "pedTags": [
+        "collision",
+        "run-into-traffic",
+        "ignore-traffic",
+        "cross",
+        "not-looking-glancing",
+        "fixated-not-at-incoming-vehicle",
+        "preoccupied",
+        "speed-up",
+        "cross-without-crosswalk",
+        "back-turned"
+      ],
+      "egoTags": [
+        "halt",
+        "aggressive-brake"
+      ],
+      "sceneTags": [
+        "day",
+        "none",
+        "no-crosswalk"
+      ],
+      "archetypeTags": [
+        "blind",
+        "jaywalker",
+        "distracted"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 1830,
+      "frameEnd": 2000,
+      "pedTags": [
+        "ignore-traffic",
+        "collision",
+        "thrown-back",
+        "fall",
+        "run-into-traffic",
+        "fixated-not-at-incoming-vehicle",
+        "preoccupied",
+        "not-looking-glancing",
+        "cross-without-crosswalk",
+        "cross"
+      ],
+      "egoTags": [
+        "aggressive-brake",
+        "halt"
+      ],
+      "sceneTags": [
+        "day",
+        "snowy",
+        "none",
+        "no-crosswalk",
+        "one-way"
+      ],
+      "archetypeTags": [
+        "jaywalker",
+        "blind",
+        "distracted"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 2110,
+      "frameEnd": 2200,
+      "pedTags": [
+        "preoccupied",
+        "fixated-not-at-incoming-vehicle",
+        "not-looking-glancing",
+        "cross",
+        "ignore-traffic",
+        "run-into-traffic",
+        "cross-without-crosswalk",
+        "near-miss"
+      ],
+      "egoTags": [
+        "Keep-speed"
+      ],
+      "sceneTags": [
+        "day",
+        "none",
+        "no-crosswalk",
+        "two-way"
+      ],
+      "archetypeTags": [
+        "jaywalker",
+        "distracted",
+        "blind"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 2470,
+      "frameEnd": 2570,
+      "pedTags": [
+        "cross",
+        "not-looking-glancing",
+        "preoccupied",
+        "fixated-not-at-incoming-vehicle",
+        "ignore-traffic",
+        "cross-without-crosswalk",
+        "run-into-traffic",
+        "near-miss"
+      ],
+      "egoTags": [
+        "aggressive-brake",
+        "halt"
+      ],
+      "sceneTags": [
+        "night",
+        "none",
+        "no-crosswalk",
+        "glare-on-windshield"
+      ],
+      "archetypeTags": [
+        "jaywalker",
+        "blind",
+        "distracted"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 2880,
+      "frameEnd": 3000,
+      "pedTags": [
+        "fixated-not-at-incoming-vehicle",
+        "preoccupied",
+        "along-lane",
+        "ignore-traffic",
+        "glancing"
+      ],
+      "egoTags": [],
+      "sceneTags": [
+        "no-crosswalk",
+        "day"
+      ],
+      "archetypeTags": [
+        "jaywalker",
+        "distracted"
+      ],
+      "additionalNotes": ""
+    }
+  ],
+  "singleFrameAnnotations": []
+}

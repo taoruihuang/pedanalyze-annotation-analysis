@@ -1,0 +1,131 @@
+{
+  "name": "Insurance Fraud/Carjacking Attempt Caught",
+  "fps": 30,
+  "video_path": "https://www.youtube.com/watch?v=Dy5HpijNuj4",
+  "multiFrameAnnotations": [
+    {
+      "frameStart": 346,
+      "frameEnd": 368,
+      "pedTags": [
+        [
+          "run-into-traffic",
+          "Run into traffic"
+        ],
+        [
+          "not-looking-glancing",
+          "Not looking/glancing"
+        ]
+      ],
+      "egoTags": [
+        [
+          "gradual-brake",
+          "Gradual brake"
+        ]
+      ],
+      "sceneTags": [
+        [
+          "night",
+          "Night"
+        ],
+        [
+          "light",
+          "Light Traffic"
+        ],
+        [
+          "none",
+          "No Traffic Light"
+        ]
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 368,
+      "frameEnd": 399,
+      "pedTags": [
+        [
+          "collision",
+          "Collision"
+        ]
+      ],
+      "egoTags": [
+        [
+          "halt",
+          "Halt"
+        ]
+      ],
+      "sceneTags": [
+        [
+          "night",
+          "Night"
+        ],
+        [
+          "none",
+          "No Traffic Light"
+        ],
+        [
+          "light",
+          "Light Traffic"
+        ]
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 399,
+      "frameEnd": 529,
+      "pedTags": [
+        [
+          "agitated",
+          "Agitated"
+        ]
+      ],
+      "egoTags": [
+        [
+          "slow-reverse",
+          "Slow reverse"
+        ]
+      ],
+      "sceneTags": [
+        [
+          "night",
+          "Night"
+        ],
+        [
+          "light",
+          "Light Traffic"
+        ],
+        [
+          "none",
+          "No Traffic Light"
+        ]
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 529,
+      "frameEnd": 622,
+      "pedTags": [],
+      "egoTags": [
+        [
+          "swerve",
+          "Swerve"
+        ]
+      ],
+      "sceneTags": [
+        [
+          "night",
+          "Night"
+        ],
+        [
+          "none",
+          "No Traffic Light"
+        ],
+        [
+          "light",
+          "Light Traffic"
+        ]
+      ],
+      "additionalNotes": ""
+    }
+  ],
+  "singleFrameAnnotations": []
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Groups of Pedestrians Crossing",
+  "fps": 30,
+  "video_path": "https://www.youtube.com/watch?v=4ZrrcnZALHA",
+  "multiFrameAnnotations": [
+    {
+      "frameStart": 436,
+      "frameEnd": 584,
+      "pedTags": [
+        "brisk-walk",
+        "group-walk",
+        "gesturing",
+        "run-into-traffic"
+      ],
+      "egoTags": [
+        "gradual-brake"
+      ],
+      "sceneTags": [],
+      "archetypeTags": [
+        "flash",
+        "flock"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 0,
+      "frameEnd": 268,
+      "pedTags": [
+        "group-disperse",
+        "group-walk"
+      ],
+      "egoTags": [],
+      "sceneTags": [],
+      "archetypeTags": [],
+      "additionalNotes": "Cross street in many groups"
+    }
+  ],
+  "singleFrameAnnotations": [
+    {
+      "frame": 0,
+      "pedTags": [],
+      "egoTags": [],
+      "sceneTags": [
+        "night",
+        "heavy",
+        "red"
+      ],
+      "archetypeTags": [
+        "flock"
+      ],
+      "additionalNotes": ""
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "name": "Pedestrian Analysis #4C",
+  "fps": 30,
+  "video_path": "https://youtu.be/Ly7Exrc6nJU?si=SzTanFGU8K0onmoW",
+  "numberOfSingleFrameAnnotations": 0,
+  "numberOfMultiFrameAnnotations": 2,
+  "multiFrameAnnotations": [
+    {
+      "frameStart": 783,
+      "frameEnd": 1000,
+      "pedTags": [
+        "cross",
+        "thrown-back",
+        "collision",
+        "aggression",
+        "agitated",
+        "pop-out-occlusion"
+      ],
+      "egoTags": [
+        "gradual-brake",
+        "halt",
+        "induced-collision",
+        "aggressive-brake"
+      ],
+      "sceneTags": [
+        "night",
+        "light",
+        "green",
+        "crosswalk",
+        "one-way"
+      ],
+      "archetypeTags": [
+        "kid",
+        "indecisive",
+        "flash",
+        "distracted"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 1048,
+      "frameEnd": 1275,
+      "pedTags": [
+        "along-lane",
+        "zig-zag",
+        "near-miss",
+        "speed-up"
+      ],
+      "egoTags": [
+        "lane-change",
+        "gradual-acceleration",
+        "halt",
+        "aggressive-brake"
+      ],
+      "sceneTags": [],
+      "archetypeTags": [
+        "distracted"
+      ],
+      "additionalNotes": ""
+    }
+  ],
+  "singleFrameAnnotations": []
+}

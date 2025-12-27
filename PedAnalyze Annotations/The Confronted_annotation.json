@@ -1,0 +1,42 @@
+{
+  "name": "The Confronted",
+  "fps": 30,
+  "video_path": "https://www.youtube.com/watch?v=zmtnxxEFGEo",
+  "numberOfSingleFrameAnnotations": 0,
+  "numberOfMultiFrameAnnotations": 1,
+  "multiFrameAnnotations": [
+    {
+      "frameStart": 8081,
+      "frameEnd": 8434,
+      "pedTags": [
+        "aggression",
+        "observing",
+        "glancing",
+        "cross",
+        "gesturing",
+        "pause-start",
+        "brisk-walk",
+        "group-walk",
+        "agitated",
+        "looking",
+        "slow-down"
+      ],
+      "egoTags": [
+        "gradual-acceleration",
+        "gradual-brake",
+        "halt"
+      ],
+      "sceneTags": [
+        "day",
+        "one-way",
+        "cloudy"
+      ],
+      "archetypeTags": [
+        "flock",
+        "kid"
+      ],
+      "additionalNotes": ""
+    }
+  ],
+  "singleFrameAnnotations": []
+}

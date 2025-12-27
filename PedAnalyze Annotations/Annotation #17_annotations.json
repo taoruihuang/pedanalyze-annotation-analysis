@@ -1,0 +1,41 @@
+{
+  "name": "Annotation #17",
+  "fps": 30,
+  "video_path": "https://www.youtube.com/watch?v=fqN6tOTVjeE",
+  "numberOfSingleFrameAnnotations": 0,
+  "numberOfMultiFrameAnnotations": 1,
+  "multiFrameAnnotations": [
+    {
+      "frameStart": 100,
+      "frameEnd": 1400,
+      "pedTags": [
+        "frozen",
+        "not-cross",
+        "ignore-traffic",
+        "not-looking-glancing",
+        "collision",
+        "make-stop",
+        "thrown-back",
+        "back-turned",
+        "group-walk"
+      ],
+      "egoTags": [
+        "gradual-acceleration",
+        "halt"
+      ],
+      "sceneTags": [
+        "day",
+        "none",
+        "no-crosswalk"
+      ],
+      "archetypeTags": [
+        "protester",
+        "jaywalker",
+        "blind",
+        "flock"
+      ],
+      "additionalNotes": ""
+    }
+  ],
+  "singleFrameAnnotations": []
+}

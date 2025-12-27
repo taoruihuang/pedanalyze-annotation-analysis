@@ -1,0 +1,34 @@
+{
+  "name": "Pedestrian Analysis #4B",
+  "fps": 30,
+  "video_path": "https://youtu.be/txNKEtqpHvM?si=vXcP6cnE34BuxIN5",
+  "numberOfSingleFrameAnnotations": 0,
+  "numberOfMultiFrameAnnotations": 1,
+  "multiFrameAnnotations": [
+    {
+      "frameStart": 8262,
+      "frameEnd": 8510,
+      "pedTags": [
+        "ignore-traffic",
+        "cross-without-crosswalk",
+        "cross",
+        "not-looking-glancing"
+      ],
+      "egoTags": [
+        "gradual-acceleration"
+      ],
+      "sceneTags": [
+        "day",
+        "cloudy",
+        "two-way",
+        "green"
+      ],
+      "archetypeTags": [
+        "jaywalker",
+        "distracted"
+      ],
+      "additionalNotes": ""
+    }
+  ],
+  "singleFrameAnnotations": []
+}

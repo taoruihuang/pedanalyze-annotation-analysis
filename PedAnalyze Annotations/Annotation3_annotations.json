@@ -1,0 +1,111 @@
+{
+  "name": "Annotation3",
+  "fps": 30,
+  "video_path": "https://www.youtube.com/watch?v=Go_mD3mJsYs",
+  "numberOfSingleFrameAnnotations": 0,
+  "numberOfMultiFrameAnnotations": 4,
+  "multiFrameAnnotations": [
+    {
+      "frameStart": 435,
+      "frameEnd": 573,
+      "pedTags": [
+        "pop-out-occlusion",
+        "cross-without-crosswalk",
+        "ignore-traffic",
+        "frozen",
+        "flinch-in",
+        "collision"
+      ],
+      "egoTags": [
+        "aggressive-brake"
+      ],
+      "sceneTags": [
+        "day",
+        "sunny"
+      ],
+      "archetypeTags": [
+        "jaywalker"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 2710,
+      "frameEnd": 2960,
+      "pedTags": [
+        "cross-without-crosswalk",
+        "ignore-traffic",
+        "back-turned",
+        "run-into-traffic",
+        "collision",
+        "not-looking-glancing",
+        "preoccupied"
+      ],
+      "egoTags": [
+        "gradual-brake",
+        "halt"
+      ],
+      "sceneTags": [
+        "snowy",
+        "no-crosswalk"
+      ],
+      "archetypeTags": [
+        "wanderer",
+        "distracted"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 3610,
+      "frameEnd": 5271,
+      "pedTags": [
+        "run-into-traffic",
+        "crawling",
+        "agitated"
+      ],
+      "egoTags": [
+        "slow-reverse",
+        "gradual-brake",
+        "quick-reverse",
+        "swerve",
+        "induced-collision"
+      ],
+      "sceneTags": [
+        "cloudy",
+        "light"
+      ],
+      "archetypeTags": [
+        "drunk",
+        "fighter"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 7752,
+      "frameEnd": 7960,
+      "pedTags": [
+        "agitated",
+        "ignore-traffic",
+        "run-into-traffic",
+        "collision",
+        "thrown-back"
+      ],
+      "egoTags": [
+        "aggressive-brake",
+        "induced-collision",
+        "halt"
+      ],
+      "sceneTags": [
+        "day",
+        "snowy",
+        "occluded-pedestrian"
+      ],
+      "archetypeTags": [
+        "wanderer",
+        "jaywalker",
+        "drunk"
+      ],
+      "additionalNotes": ""
+    }
+  ],
+  "singleFrameAnnotations": []
+}

@@ -1,0 +1,74 @@
+{
+  "name": "Pedestrian Cross in Front of Car",
+  "fps": 30,
+  "video_path": "https://www.youtube.com/watch?v=UK_orn712zE",
+  "multiFrameAnnotations": [
+    {
+      "frameStart": 20,
+      "frameEnd": 68,
+      "pedTags": [
+        "looking",
+        "not-cross",
+        "cautious"
+      ],
+      "egoTags": [],
+      "sceneTags": [],
+      "archetypeTags": [],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 0,
+      "frameEnd": 20,
+      "pedTags": [
+        "along-lane"
+      ],
+      "egoTags": [],
+      "sceneTags": [],
+      "archetypeTags": [],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 124,
+      "frameEnd": 195,
+      "pedTags": [
+        "brisk-walk",
+        "speed-up",
+        "not-looking-glancing",
+        "cross-on-red",
+        "ignore-traffic"
+      ],
+      "egoTags": [],
+      "sceneTags": [],
+      "archetypeTags": [
+        "flash"
+      ],
+      "additionalNotes": ""
+    }
+  ],
+  "singleFrameAnnotations": [
+    {
+      "frame": 55,
+      "pedTags": [],
+      "egoTags": [],
+      "sceneTags": [
+        "night",
+        "green",
+        "light"
+      ],
+      "archetypeTags": [],
+      "additionalNotes": ""
+    },
+    {
+      "frame": 124,
+      "pedTags": [],
+      "egoTags": [],
+      "sceneTags": [
+        "night",
+        "green",
+        "light"
+      ],
+      "archetypeTags": [],
+      "additionalNotes": ""
+    }
+  ]
+}

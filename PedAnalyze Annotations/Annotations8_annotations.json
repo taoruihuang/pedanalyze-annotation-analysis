@@ -1,0 +1,204 @@
+{
+  "name": "Annotations8",
+  "fps": 30,
+  "video_path": "https://www.youtube.com/watch?v=ryoUeSSwIP8",
+  "numberOfSingleFrameAnnotations": 0,
+  "numberOfMultiFrameAnnotations": 7,
+  "multiFrameAnnotations": [
+    {
+      "frameStart": 539,
+      "frameEnd": 687,
+      "pedTags": [
+        "cross-on-red",
+        "speed-up",
+        "crosswalk-detour",
+        "glancing",
+        "cautious",
+        "cross"
+      ],
+      "egoTags": [
+        "aggressive-acceleration",
+        "aggressive-brake",
+        "make-go"
+      ],
+      "sceneTags": [
+        "day",
+        "green",
+        "crosswalk",
+        "two-way"
+      ],
+      "archetypeTags": [
+        "flash"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 2330,
+      "frameEnd": 2468,
+      "pedTags": [
+        "cross-without-crosswalk",
+        "pop-out-occlusion",
+        "zig-zag",
+        "break",
+        "make-go",
+        "cautious",
+        "looking"
+      ],
+      "egoTags": [
+        "aggressive-brake",
+        "halt",
+        "make-go"
+      ],
+      "sceneTags": [
+        "night",
+        "no-crosswalk"
+      ],
+      "archetypeTags": [
+        "jaywalker"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 2753,
+      "frameEnd": 2920,
+      "pedTags": [
+        "cross-on-red",
+        "speed-up",
+        "cautious",
+        "cross"
+      ],
+      "egoTags": [
+        "aggressive-acceleration",
+        "aggressive-brake",
+        "gradual-acceleration"
+      ],
+      "sceneTags": [
+        "crosswalk",
+        "light",
+        "red"
+      ],
+      "archetypeTags": [
+        "flash",
+        "jaywalker"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 3618,
+      "frameEnd": 3778,
+      "pedTags": [
+        "ignore-traffic",
+        "preoccupied",
+        "cross",
+        "break",
+        "run-into-traffic",
+        "make-go",
+        "cross-on-red"
+      ],
+      "egoTags": [
+        "Keep-speed"
+      ],
+      "sceneTags": [
+        "cloudy",
+        "crosswalk",
+        "red"
+      ],
+      "archetypeTags": [
+        "jaywalker",
+        "elderly"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 5442,
+      "frameEnd": 5564,
+      "pedTags": [
+        "brisk-walk",
+        "speed-up",
+        "cross-on-red",
+        "pop-out-occlusion",
+        "ignore-traffic",
+        "slow-down",
+        "near-miss",
+        "run-into-traffic",
+        "cautious",
+        "cross",
+        "cross-without-crosswalk"
+      ],
+      "egoTags": [
+        "gradual-acceleration",
+        "make-go"
+      ],
+      "sceneTags": [
+        "cloudy",
+        "no-crosswalk",
+        "two-way"
+      ],
+      "archetypeTags": [
+        "flash"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 5978,
+      "frameEnd": 6102,
+      "pedTags": [
+        "retreat",
+        "group-walk",
+        "cross-on-red",
+        "pop-out-occlusion",
+        "flinch-out",
+        "cautious",
+        "make-go"
+      ],
+      "egoTags": [
+        "aggressive-acceleration",
+        "gradual-acceleration",
+        "Keep-speed"
+      ],
+      "sceneTags": [
+        "cloudy",
+        "no-crosswalk",
+        "crosswalk",
+        "red"
+      ],
+      "archetypeTags": [
+        "jaywalker"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 7729,
+      "frameEnd": 7854,
+      "pedTags": [
+        "speed-up",
+        "cross-on-red",
+        "ignore-traffic",
+        "near-miss",
+        "glancing",
+        "looking",
+        "cautious",
+        "cross"
+      ],
+      "egoTags": [
+        "aggressive-acceleration",
+        "speeding",
+        "Keep-speed",
+        "gradual-acceleration"
+      ],
+      "sceneTags": [
+        "cloudy",
+        "day",
+        "sunny",
+        "crosswalk",
+        "red",
+        "one-way"
+      ],
+      "archetypeTags": [
+        "jaywalker"
+      ],
+      "additionalNotes": ""
+    }
+  ],
+  "singleFrameAnnotations": []
+}

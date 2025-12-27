@@ -1,0 +1,375 @@
+{
+  "name": "Annotation #4",
+  "fps": 30,
+  "video_path": "https://www.youtube.com/watch?v=cPYQaTK2EU8",
+  "numberOfSingleFrameAnnotations": 0,
+  "numberOfMultiFrameAnnotations": 14,
+  "multiFrameAnnotations": [
+    {
+      "frameStart": 320,
+      "frameEnd": 550,
+      "pedTags": [
+	"ignore-traffic",
+        "near-miss",
+        "cross",
+        "not-looking-glancing",
+        "crosswalk-detour",
+        "run-into-traffic"
+      ],
+      "egoTags": [
+        "Keep-speed"
+      ],
+      "sceneTags": [
+        "day",
+        "crosswalk",
+        "none"
+      ],
+      "archetypeTags": [
+        "jaywalker",
+        "blind",
+        "wanderer"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 660,
+      "frameEnd": 940,
+      "pedTags": [
+        "cross-without-crosswalk",
+        "ignore-traffic",
+        "group-walk",
+	"along-lane",
+	"near-miss",
+        "glancing"
+      ],
+      "egoTags": [
+        "gradual-acceleration"
+      ],
+      "sceneTags": [
+        "day",
+	"cloudy",
+	"intersection",
+	"no-crosswalk"
+      ],
+      "archetypeTags": [
+        "flock",
+        "jaywalker",
+	"wanderer",
+        "blind"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 1040,
+      "frameEnd": 1150,
+      "pedTags": [
+        "cross-without-crosswalk",
+        "cross-on-red",
+        "ignore-traffic",
+	"near-miss",
+        "not-looking-glancing",
+        "cross"
+      ],
+      "egoTags": [
+        "keep-speed"
+      ],
+      "sceneTags": [
+        "day",
+        "sunny",
+        "one-way",	
+	"green"
+      ],
+      "archetypeTags": [
+        "blind",
+        "jaywalker"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 1500,
+      "frameEnd": 2000,
+      "pedTags": [
+        "cross-without-crosswalk",
+        "not-looking-glancing",
+        "near-miss",
+        "ignore-traffic",
+        "cross"
+      ],
+      "egoTags": [
+        "gradual-acceleration"
+      ],
+      "sceneTags": [
+        "day",
+        "sunny",
+	"intersection"
+      ],
+      "archetypeTags": [
+        "jaywalker",
+        "blind"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 2100,
+      "frameEnd": 2210,
+      "pedTags": [
+        "cross-on-red",
+        "ignore-traffic",
+        "looking",
+        "run-into-traffic",
+        "cross",
+      ],
+      "egoTags": [
+        "gradual-acceleration"
+      ],
+      "sceneTags": [
+        "day",
+        "crosswalk",
+        "sunny",
+	"intersection",
+	"green"
+      ],
+      "archetypeTags": [
+        "jaywalker",
+        "blind"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 2300,
+      "frameEnd": 2700,
+      "pedTags": [
+        "cross-without-crosswalk",
+        "ignore-traffic",
+        "not-looking-glancing",
+        "run-into-traffic",
+        "cross",
+        "cross-on-red"
+      ],
+      "egoTags": [
+        "Keep-speed"
+      ],
+      "sceneTags": [
+        "day",
+        "no-crosswalk",
+        "sunny"
+      ],
+      "archetypeTags": [
+        "flash",
+        "jaywalker",
+        "blind"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 2900,
+      "frameEnd": 3050,
+      "pedTags": [
+        "cross-without-crosswalk",
+	"brisk-walk",
+        "cross",
+        "ignore-traffic",
+        "cross-on-red",
+        "not-looking-glancing"
+      ],
+      "egoTags": [
+        "gradual-acceleration"
+      ],
+      "sceneTags": [
+        "day",
+        "sunny",
+	"intersection",
+	"green",
+        "no-crosswalk"
+      ],
+      "archetypeTags": [
+        "blind",
+        "jaywalker"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 3090,
+      "frameEnd": 3500,
+      "pedTags": [
+        "along-lane",
+        "ignore-traffic",
+        "not-looking-glancing",
+        "cross"
+      ],
+      "egoTags": [
+        "Keep-speed"
+      ],
+      "sceneTags": [
+        "day",
+        "two-way",
+	"intersection",
+        "sunny",
+	"green"
+      ],
+      "archetypeTags": [
+        "wanderer",
+        "blind",
+        "jaywalker"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 3680,
+      "frameEnd": 3850,
+      "pedTags": [
+        "cross-on-red",
+        "crosswalk-detour",
+        "run-into-traffic",
+        "near-miss",
+        "glancing",
+        "cross",
+        "speed-up"
+      ],
+      "egoTags": [
+        "Keep-speed"
+      ],
+      "sceneTags": [
+        "day",
+        "cloudy",
+        "crosswalk",
+	"green"
+      ],
+      "archetypeTags": [
+        "jaywalker"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 3900,
+      "frameEnd": 4150,
+      "pedTags": [
+        "near-miss",
+        "run-into-traffic",
+        "ignore-traffic",
+        "not-looking-glancing",
+        "cross",
+        "cross-without-crosswalk"
+      ],
+      "egoTags": [
+        "Keep-speed"
+      ],
+      "sceneTags": [
+        "cloudy",
+        "day",
+        "no-crosswalk",
+	"highway",
+        "none"
+      ],
+      "archetypeTags": [
+        "flash",
+        "jaywalker",
+        "blind"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 4190,
+      "frameEnd": 4370,
+      "pedTags": [
+        "cross-on-red",
+        "ignore-traffic",
+        "not-looking-glancing",
+        "speed-up",
+        "near-miss",
+        "cross"
+      ],
+      "egoTags": [
+        "keep-speed"
+      ],
+      "sceneTags": [
+        "day",
+        "cloudy",
+	"yellow",
+        "crosswalk"
+      ],
+      "archetypeTags": [
+        "blind",
+        "jaywalker"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 4400,
+      "frameEnd": 4500,
+      "pedTags": [
+        "glancing",
+        "ignore-traffic",
+	"near-miss",
+        "cross"
+      ],
+      "egoTags": [
+        "Keep-speed"
+      ],
+      "sceneTags": [
+        "day",
+        "cloudy",
+        "no-crosswalk",
+        "none",
+        "two-way"
+      ],
+      "archetypeTags": [
+        "blind",
+        "jaywalker"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 4780,
+      "frameEnd": 5000,
+      "pedTags": [
+        "cross-on-red",
+        "group-walk",
+        "ignore-traffic",
+        "glancing",
+        "cross"
+      ],
+      "egoTags": [
+        "gradual-brake"
+      ],
+      "sceneTags": [
+        "day",
+        "intersection",
+        "crosswalk",
+	"green"
+      ],
+      "archetypeTags": [
+        "flock",
+        "jaywalker",
+        "blind"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 5130,
+      "frameEnd": 5200,
+      "pedTags": [
+        "group-walk",
+        "cross-without-crosswalk",
+	"brisk-walk",
+        "glancing",
+        "cross"
+      ],
+      "egoTags": [],
+      "sceneTags": [
+        "day",
+        "cloudy",
+        "crosswalk",
+	"red",
+        "one-way"
+      ],
+      "archetypeTags": [
+        "flock",
+        "jaywalker",
+        "blind"
+      ],
+      "additionalNotes": ""
+    }
+  ],
+  "singleFrameAnnotations": []
+}

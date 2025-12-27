@@ -1,0 +1,38 @@
+{
+  "name": "Annotation #22",
+  "fps": 30,
+  "video_path": "https://www.youtube.com/watch?v=lW9Q_ItAFPk",
+  "numberOfSingleFrameAnnotations": 0,
+  "numberOfMultiFrameAnnotations": 1,
+  "multiFrameAnnotations": [
+    {
+      "frameStart": 260,
+      "frameEnd": 400,
+      "pedTags": [
+        "fixated-not-at-incoming-vehicle",
+        "preoccupied",
+        "not-looking-glancing",
+        "cross",
+        "ignore-traffic",
+        "cross-without-crosswalk"
+      ],
+      "egoTags": [
+        "gradual-brake"
+      ],
+      "sceneTags": [
+        "day",
+        "cloudy",
+        "none",
+        "no-crosswalk",
+        "two-way"
+      ],
+      "archetypeTags": [
+        "distracted",
+        "jaywalker",
+        "blind"
+      ],
+      "additionalNotes": ""
+    }
+  ],
+  "singleFrameAnnotations": []
+}

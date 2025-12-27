@@ -1,0 +1,56 @@
+{
+  "name": "Pedestrian Near Miss Incident",
+  "fps": 30,
+  "video_path": "https://www.youtube.com/watch?v=glUkA8hgaYs",
+  "multiFrameAnnotations": [
+    {
+      "frameStart": 342,
+      "frameEnd": 400,
+      "pedTags": [
+        "crosswalk-detour",
+        "brisk-walk"
+      ],
+      "egoTags": [],
+      "sceneTags": [],
+      "archetypeTags": [
+        "jaywalker"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 277,
+      "frameEnd": 341,
+      "pedTags": [
+        "brisk-walk",
+        "gesturing",
+        "cross",
+        "looking",
+        "run-into-traffic"
+      ],
+      "egoTags": [
+        "gradual-brake"
+      ],
+      "sceneTags": [],
+      "archetypeTags": [
+        "jaywalker"
+      ],
+      "additionalNotes": ""
+    }
+  ],
+  "singleFrameAnnotations": [
+    {
+      "frame": 233,
+      "pedTags": [],
+      "egoTags": [],
+      "sceneTags": [
+        "day",
+        "sunny",
+        "heavy",
+        "crosswalk",
+        "green"
+      ],
+      "archetypeTags": [],
+      "additionalNotes": ""
+    }
+  ]
+}

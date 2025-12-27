@@ -1,0 +1,129 @@
+{
+  "name": "Annotation Video #3",
+  "fps": 30,
+  "video_path": "https://www.youtube.com/watch?v=039kNccXtNc",
+  "numberOfSingleFrameAnnotations": 0,
+  "numberOfMultiFrameAnnotations": 4,
+  "multiFrameAnnotations": [
+    {
+      "frameStart": 950,
+      "frameEnd": 1080,
+      "pedTags": [
+        "pop-out-occlusion",
+        "cross-on-red",
+        "run-into-traffic",
+        "not-looking-glancing",
+        "collision",
+        "thrown-back",
+        "ignore-traffic",
+        "cross"
+      ],
+      "egoTags": [
+        "aggressive-brake",
+        "halt"
+      ],
+      "sceneTags": [
+        "cloudy",
+        "green",
+        "crosswalk",
+        "heavy",
+        "one-way",
+        "occluded-pedestrian"
+      ],
+      "archetypeTags": [
+        "blind",
+        "jaywalker",
+        "flash",
+        "elderly"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 2593,
+      "frameEnd": 2745,
+      "pedTags": [
+        "brisk-walk",
+        "retreat",
+        "pause-start",
+        "speed-up",
+        "cross-without-crosswalk",
+        "collision",
+        "thrown-back",
+        "not-sure-cross",
+        "ignore-traffic",
+        "flinch-in"
+      ],
+      "egoTags": [
+        "aggressive-brake",
+        "halt"
+      ],
+      "sceneTags": [
+        "cloudy",
+        "day",
+        "none",
+        "no-crosswalk",
+        "moderate",
+        "one-way",
+        "foggy"
+      ],
+      "archetypeTags": [
+        "indecisive",
+        "jaywalker"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 3281,
+      "frameEnd": 3372,
+      "pedTags": [
+        "brisk-walk",
+        "cross-on-red",
+        "collision",
+        "thrown-back",
+        "run-into-traffic",
+        "cross",
+        "ignore-traffic"
+      ],
+      "egoTags": [
+        "aggressive-brake",
+        "halt"
+      ],
+      "sceneTags": [
+        "cloudy",
+        "two-way",
+        "green",
+        "crosswalk"
+      ],
+      "archetypeTags": [
+        "flash",
+        "jaywalker",
+        "blind"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 6755,
+      "frameEnd": 6840,
+      "pedTags": [
+        "near-miss",
+        "flinch-out",
+        "not-cross",
+        "retreat"
+      ],
+      "egoTags": [
+        "halt"
+      ],
+      "sceneTags": [
+        "foggy",
+        "crosswalk",
+        "two-way",
+        "moderate"
+      ],
+      "archetypeTags": [
+        "eventful"
+      ],
+      "additionalNotes": ""
+    }
+  ],
+  "singleFrameAnnotations": []
+}

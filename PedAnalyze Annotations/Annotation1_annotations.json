@@ -1,0 +1,73 @@
+{
+  "name": "Annotation1",
+  "fps": 30,
+  "video_path": "https://www.youtube.com/watch?v=mQRYQQGRoDA&ab_channel=FreestyleArts",
+  "numberOfSingleFrameAnnotations": 0,
+  "numberOfMultiFrameAnnotations": 3,
+  "multiFrameAnnotations": [
+    {
+      "frameStart": 215,
+      "frameEnd": 319,
+      "pedTags": [
+        "along-lane",
+        "brisk-walk",
+        "not-looking-glancing"
+      ],
+      "egoTags": [
+        "halt"
+      ],
+      "sceneTags": [
+        "day",
+        "sunny"
+      ],
+      "archetypeTags": [
+        "jaywalker"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 1318,
+      "frameEnd": 1382,
+      "pedTags": [
+        "along-lane",
+        "ignore-traffic",
+        "near-miss"
+      ],
+      "egoTags": [
+        "aggressive-acceleration",
+        "gradual-acceleration"
+      ],
+      "sceneTags": [
+        "day",
+        "sunny"
+      ],
+      "archetypeTags": [
+        "wanderer"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 2719,
+      "frameEnd": 2799,
+      "pedTags": [
+        "cross-without-crosswalk",
+        "run-into-traffic",
+        "near-miss",
+        "not-looking-glancing",
+        "cross"
+      ],
+      "egoTags": [
+        "gradual-acceleration"
+      ],
+      "sceneTags": [
+        "day",
+        "sunny"
+      ],
+      "archetypeTags": [
+        "jaywalker"
+      ],
+      "additionalNotes": ""
+    }
+  ],
+  "singleFrameAnnotations": []
+}

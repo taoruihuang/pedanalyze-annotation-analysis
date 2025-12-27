@@ -1,0 +1,107 @@
+{
+  "name": "Stupid Pedestrians",
+  "fps": 30,
+  "video_path": "https://www.youtube.com/watch?v=wcuoNE8g-wM&list=PLQe0Hn5-zlyWmMfXsiB-vQdjW2tgMv3Dt&index=2",
+  "multiFrameAnnotations": [
+    {
+      "frameStart": 115,
+      "frameEnd": 197,
+      "pedTags": [
+        "glancing",
+        "slow-down"
+      ],
+      "egoTags": [
+        "gradual-brake",
+        "lane-change"
+      ],
+      "sceneTags": [
+        "day",
+        "sunny",
+        "none",
+        "two-way"
+      ],
+      "archetypeTags": [
+        "parked-pedestrian"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 580,
+      "frameEnd": 640,
+      "pedTags": [
+        "group-walk",
+        "fixated-not-at-incoming-vehicle",
+        "cross"
+      ],
+      "egoTags": [
+        "gradual-brake"
+      ],
+      "sceneTags": [
+        "day"
+      ],
+      "archetypeTags": [
+        "flock"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 640,
+      "frameEnd": 675,
+      "pedTags": [
+        "slow-down",
+        "group-disperse",
+        "flinch-out"
+      ],
+      "egoTags": [],
+      "sceneTags": [
+        "day"
+      ],
+      "archetypeTags": [],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 989,
+      "frameEnd": 1521,
+      "pedTags": [
+        "group-walk",
+        "pause-start",
+        "looking",
+        "cross-without-crosswalk"
+      ],
+      "egoTags": [
+        "gradual-brake"
+      ],
+      "sceneTags": [
+        "rainy",
+        "cloudy",
+        "no-crosswalk",
+        "none"
+      ],
+      "archetypeTags": [
+        "flock"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 3033,
+      "frameEnd": 3221,
+      "pedTags": [
+        "not-looking-glancing",
+        "preoccupied",
+        "back-turned"
+      ],
+      "egoTags": [
+        "halt"
+      ],
+      "sceneTags": [
+        "cloudy",
+        "light"
+      ],
+      "archetypeTags": [
+        "distracted"
+      ],
+      "additionalNotes": ""
+    }
+  ],
+  "singleFrameAnnotations": []
+}

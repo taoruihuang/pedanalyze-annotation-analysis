@@ -1,0 +1,238 @@
+{
+  "name": "shorts1",
+  "fps": 30,
+  "video_path": "https://youtu.be/rYuNAlm6mOo",
+  "numberOfSingleFrameAnnotations": 0,
+  "numberOfMultiFrameAnnotations": 4,
+  "multiFrameAnnotations": [
+    {
+      "frameStart": 0,
+      "frameEnd": 86,
+      "pedTags": [
+        [
+          "cross",
+          "Cross"
+        ],
+        [
+          "not-looking-glancing",
+          "Not looking/glancing"
+        ],
+        [
+          "pause-start",
+          "Pause start"
+        ],
+        [
+          "near-miss",
+          "Near miss"
+        ]
+      ],
+      "egoTags": [
+        [
+          "aggressive-brake",
+          "Aggressive brake"
+        ],
+        [
+          "gradual-acceleration",
+          "Gradual acceleration"
+        ]
+      ],
+      "sceneTags": [
+        [
+          "day",
+          "Day"
+        ],
+        [
+          "crosswalk",
+          "Crosswalk"
+        ],
+        [
+          "two-way",
+          "Two way"
+        ]
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 124,
+      "frameEnd": 203,
+      "pedTags": [
+        [
+          "along-lane",
+          "Along lane"
+        ],
+        [
+          "cross-without-crosswalk",
+          "Cross without crosswalk"
+        ],
+        [
+          "pop-out-occlusion",
+          "Pop-out occlusion"
+        ],
+        [
+          "ignore-traffic",
+          "Ignore traffic"
+        ],
+        [
+          "collision",
+          "Collision"
+        ],
+        [
+          "not-looking-glancing",
+          "Not looking/glancing"
+        ],
+        [
+          "flinch-out",
+          "Flinch out"
+        ],
+        [
+          "group-walk",
+          "Group walk"
+        ],
+        [
+          "run-into-traffic",
+          "Run into traffic"
+        ]
+      ],
+      "egoTags": [
+        [
+          "aggressive-brake",
+          "Aggressive brake"
+        ]
+      ],
+      "sceneTags": [
+        [
+          "day",
+          "Day"
+        ],
+        [
+          "no-crosswalk",
+          "No crosswalk"
+        ],
+        [
+          "two-way",
+          "Two way"
+        ]
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 521,
+      "frameEnd": 606,
+      "pedTags": [
+        [
+          "group-walk",
+          "Group walk"
+        ],
+        [
+          "speed-up",
+          "Speed up"
+        ],
+        [
+          "cross-without-crosswalk",
+          "Cross without crosswalk"
+        ],
+        [
+          "pop-out-occlusion",
+          "Pop-out occlusion"
+        ],
+        [
+          "ignore-traffic",
+          "Ignore traffic"
+        ],
+        [
+          "not-looking-glancing",
+          "Not looking/glancing"
+        ],
+        [
+          "cross",
+          "Cross"
+        ],
+        [
+          "near-miss",
+          "Near miss"
+        ],
+        [
+          "run-into-traffic",
+          "Run into traffic"
+        ]
+      ],
+      "egoTags": [
+        [
+          "aggressive-brake",
+          "Aggressive brake"
+        ],
+        [
+          "swerve",
+          "Swerve"
+        ]
+      ],
+      "sceneTags": [
+        [
+          "day",
+          "Day"
+        ],
+        [
+          "two-way",
+          "Two way"
+        ],
+        [
+          "no-crosswalk",
+          "No crosswalk"
+        ]
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 647,
+      "frameEnd": 770,
+      "pedTags": [
+        [
+          "thrown-back",
+          "Thrown back"
+        ],
+        [
+          "not-looking-glancing",
+          "Not looking/glancing"
+        ],
+        [
+          "drop-object",
+          "Drop object"
+        ],
+        [
+          "near-miss",
+          "Near miss"
+        ]
+      ],
+      "egoTags": [
+        [
+          "speeding",
+          "Speeding"
+        ],
+        [
+          "swerve",
+          "Swerve"
+        ],
+        [
+          "run-stop",
+          "Run stop"
+        ]
+      ],
+      "sceneTags": [
+        [
+          "day",
+          "Day"
+        ],
+        [
+          "crosswalk",
+          "Crosswalk"
+        ],
+        [
+          "two-way",
+          "Two way"
+        ]
+      ],
+      "additionalNotes": ""
+    }
+  ],
+  "singleFrameAnnotations": []
+}

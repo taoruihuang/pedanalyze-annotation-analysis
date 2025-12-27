@@ -1,0 +1,90 @@
+{
+  "name": "short2",
+  "fps": 30,
+  "video_path": "https://youtu.be/Wfd0JcKUa_s?si=pNzMImQxh3qm5uv9",
+  "numberOfSingleFrameAnnotations": 0,
+  "numberOfMultiFrameAnnotations": 3,
+  "multiFrameAnnotations": [
+    {
+      "frameStart": 30,
+      "frameEnd": 300,
+      "pedTags": [
+        "ignore-traffic",
+        "collision",
+        "thrown-back",
+        "not-looking-glancing",
+        "fixated-not-at-incoming-vehicle"
+      ],
+      "egoTags": [
+        "Keep-speed",
+        "swerve"
+      ],
+      "sceneTags": [
+        "two-way",
+        "crosswalk",
+        "night"
+      ],
+      "archetypeTags": [
+        "blind"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 1088,
+      "frameEnd": 1835,
+      "pedTags": [
+        "cross-without-crosswalk",
+        "ignore-traffic",
+        "collision",
+        "thrown-back",
+        "not-looking-glancing",
+        "crawling",
+        "run-into-traffic"
+      ],
+      "egoTags": [
+        "aggressive-brake",
+        "halt",
+        "swerve"
+      ],
+      "sceneTags": [
+        "day",
+        "no-crosswalk",
+        "moderate",
+        "two-way"
+      ],
+      "archetypeTags": [
+        "jaywalker"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 3310,
+      "frameEnd": 3528,
+      "pedTags": [
+        "cross-without-crosswalk",
+        "crosswalk-detour",
+        "ignore-traffic",
+        "collision",
+        "observing",
+        "glancing",
+        "pause-start",
+        "run-into-traffic"
+      ],
+      "egoTags": [
+        "induced-collision",
+        "swerve",
+        "lane-change"
+      ],
+      "sceneTags": [
+        "day",
+        "one-way",
+        "crosswalk"
+      ],
+      "archetypeTags": [
+        "jaywalker"
+      ],
+      "additionalNotes": ""
+    }
+  ],
+  "singleFrameAnnotations": []
+}

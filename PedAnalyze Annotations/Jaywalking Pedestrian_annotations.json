@@ -1,0 +1,61 @@
+{
+  "name": "Jaywalking Pedestrian",
+  "fps": 30,
+  "video_path": "https://www.youtube.com/watch?v=QQqawmKqci0",
+  "multiFrameAnnotations": [
+    {
+      "frameStart": 110,
+      "frameEnd": 165,
+      "pedTags": [
+        "cross",
+        "brisk-walk",
+        "not-looking-glancing"
+      ],
+      "egoTags": [],
+      "sceneTags": [
+        "day",
+        "moderate",
+        "crosswalk"
+      ],
+      "archetypeTags": [
+        "flash"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 170,
+      "frameEnd": 185,
+      "pedTags": [
+        "slow-down",
+        "flinch-out",
+        "run-into-traffic",
+        "near-miss"
+      ],
+      "egoTags": [
+        "aggressive-brake",
+        "halt"
+      ],
+      "sceneTags": [
+        "day",
+        "sunny",
+        "moderate",
+        "crosswalk"
+      ],
+      "archetypeTags": [],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 187,
+      "frameEnd": 278,
+      "pedTags": [
+        "brisk-walk",
+        "speed-up"
+      ],
+      "egoTags": [],
+      "sceneTags": [],
+      "archetypeTags": [],
+      "additionalNotes": ""
+    }
+  ],
+  "singleFrameAnnotations": []
+}

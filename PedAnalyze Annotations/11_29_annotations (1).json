@@ -1,0 +1,119 @@
+{
+  "name": "11/29",
+  "fps": 30,
+  "video_path": "https://www.youtube.com/watch?v=HVhi45foqUs",
+  "numberOfSingleFrameAnnotations": 0,
+  "numberOfMultiFrameAnnotations": 4,
+  "multiFrameAnnotations": [
+    {
+      "frameStart": 735,
+      "frameEnd": 1000,
+      "pedTags": [
+        "cross-without-crosswalk",
+        "pop-out-occlusion",
+        "ignore-traffic",
+        "collision",
+        "thrown-back",
+        "not-looking-glancing",
+        "brisk-walk",
+        "run-into-traffic"
+      ],
+      "egoTags": [
+        "aggressive-brake",
+        "halt"
+      ],
+      "sceneTags": [
+        "day",
+        "no-crosswalk",
+        "moderate",
+        "one-way"
+      ],
+      "archetypeTags": [
+        "flash",
+	      "jaywalker",
+	      "blind"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 1830,
+      "frameEnd": 2136,
+      "pedTags": [
+
+        "ignore-traffic",
+        "collision",
+        "thrown-back",
+        "glancing",
+        "group-walk",
+        "run-into-traffic"
+      ],
+      "egoTags": [
+        "speeding",
+	      "Keep-speed"
+      ],
+      "sceneTags": [
+        "night",
+        "no-crosswalk",
+        "two-way"
+      ],
+      "archetypeTags": [
+        "flock",
+	      "jaywalker"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 2563,
+      "frameEnd": 2660,
+      "pedTags": [
+        "cross-without-crosswalk",
+        "pop-out-occlusion",
+        "ignore-traffic",
+        "collision",
+        "thrown-back",
+        "not-looking-glancing",
+        "brisk-walk",
+        "run-into-traffic"
+      ],
+      "egoTags": [
+        "halt",
+        "aggressive-brake"
+      ],
+      "sceneTags": [
+        "day",
+        "no-crosswalk",
+        "two-way"
+      ],
+      "archetypeTags": [
+        "flash",
+	      "jaywalker",
+	      "blind"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 2698,
+      "frameEnd": 3885,
+      "pedTags": [
+        "glancing",
+        "thrown-back",
+        "collision",
+        "ignore-traffic",
+        "pop-out-occlusion",
+        "swerve",
+        "brisk-walk",
+        "run-into-traffic"
+      ],
+      "egoTags": [
+        "aggressive-brake"
+      ],
+      "sceneTags": [],
+      "archetypeTags": [
+        "flash",
+        "jaywalker"
+      ],
+      "additionalNotes": ""
+    }
+  ],
+  "singleFrameAnnotations": []
+}
