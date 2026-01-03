@@ -132,7 +132,7 @@
         "not-looking-glancing",
         "ignore-traffic",
         "run-into-traffic",
-	"fall,
+	"fall",
         "thrown-back"
       ],
       "egoTags": [
@@ -380,8 +380,8 @@
         "night",
         "glare-on-windshield",
         "none",
-        "no-crosswalk"
-	"occluded-pedestrian"
+        "no-crosswalk",
+	 "occluded-pedestrian"
       ],
       "archetypeTags": [
         "jaywalker",
@@ -491,7 +491,7 @@
         "back-turned",
 	"dragged-on-ground",
         "fall",
-        "ignore-traffic",
+        "ignore-traffic"
       ],
       "egoTags": [
         "halt",

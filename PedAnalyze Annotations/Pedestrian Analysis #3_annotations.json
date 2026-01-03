@@ -210,7 +210,7 @@
         "run-into-traffic",
         "cross",
         "cautious",
-        "looking",
+        "looking"
       ],
       "egoTags": [
         "aggressive-acceleration",

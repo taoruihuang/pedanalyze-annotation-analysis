@@ -12,14 +12,14 @@
         "aggression",
         "observing",
         "agitated",
-	"assault",
+	"assault"
       ],
       "egoTags": [
         "gradual-acceleration",
         "gradual-brake",
         "slow-reverse",
 	"halt",
-	"swerve",
+	"swerve"
       ],
       "sceneTags": [
         "night",
@@ -27,7 +27,7 @@
         "light"
       ],
       "archetypeTags": [
-        "drunk"
+        "drunk",
 	"eventful"
       ],
       "additionalNotes": ""
@@ -47,7 +47,7 @@
       "sceneTags": [
         "day",
         "cloudy",
-        "green",
+        "green"
       ],
       "archetypeTags": [
         "drunk"
@@ -61,24 +61,24 @@
         "group-walk",
         "flinch-out",
         "cross-without-crosswalk",
-        "cross",
+        "cross"
       ],
       "egoTags": [
         "gradual-acceleration",
         "aggressive-brake",
-        "halt",
+        "halt"
       ],
       "sceneTags": [
         "day",
         "sunny",
         "one-way",
         "no-crosswalk",
-        "green",
+        "green"
       ],
       "archetypeTags": [
         "flock",
         "distracted",
-	"jaywalker",
+	"jaywalker"
       ],
       "additionalNotes": ""
     },
@@ -117,7 +117,7 @@
         "assault",
         "aggression",
         "pop-out-occlusion",
-        "not-sure-cross",
+        "not-sure-cross"
       ],
       "egoTags": [
         "aggressive-brake",
@@ -133,8 +133,8 @@
       ],
       "archetypeTags": [
 	"eventful",
-	"jaywalker",
-	]
+	"jaywalker"
+	],
       "additionalNotes": ""
     },
     {
@@ -179,7 +179,7 @@
 	"cloudy",
 	"day",
         "no-crosswalk",
-        "two-way",
+        "two-way"
 	],
       "archetypeTags": [
         "distracted",

@@ -426,11 +426,11 @@
       "sceneTags": [
         "cloudy",
         "day",
-        "two-way"
+        "two-way",
 	"no-crosswalk"
 ],
       "archetypeTags": [
-	"the-flash"
+	"the-flash",
 	"jaywalker"
 	],
       "additionalNotes": ""

@@ -361,7 +361,7 @@
 	"pause-start",
 	"gesturing",
 	"make-stop",
-        "cross",
+        "cross"
       ],
       "egoTags": [
         "gradual-brake",
@@ -438,7 +438,7 @@
         "cross-on-red",
         "ignore-traffic",
         "not-looking-glancing",
-        "cross",
+        "cross"
       ],
       "egoTags": [
         "Keep-speed"
