@@ -69,7 +69,7 @@
       ],
       "egoTags": [
         "gradual-brake",
-        "halt",
+        "halt"
       ],
       "sceneTags": [
         "day",
@@ -103,7 +103,7 @@
         "no-crosswalk"
       ],
       "archetypeTags": [
-        "jaywalker",
+        "jaywalker"
       ],
       "additionalNotes": ""
     },
@@ -206,7 +206,7 @@
  {
       "frameStart": 2960,
       "frameEnd": 3250,
-      "pedTags": 3050
+      "pedTags": [
         "cross",
         "not-looking-glancing",
         "ignore-traffic",
@@ -238,7 +238,7 @@
         "dancing",
 	"pause-start",
         "cross",
-	"cross-without-crosswalk"
+	"cross-without-crosswalk",
         "not-looking-glancing",
         "ignore-traffic"
       ],
@@ -351,7 +351,7 @@
       ],
       "sceneTags": [
         "day",
-        "cloudy"
+        "cloudy",
 	"no-crosswalk",
 	"none"
       ],
@@ -481,14 +481,14 @@
         "cross-without-crosswalk",
         "cross",
 	"ignore-traffic",
-	"near-miss"
+	"near-miss",
         "run-into-traffic",
         "not-looking-glancing"
       ],
       "egoTags": [
         "swerve"
       ],
-      "sceneTags" [
+      "sceneTags": [
         "snowy",
         "no-crosswalk",
         "none"
@@ -906,7 +906,7 @@
 	"thrown-back",
         "not-looking-glancing"
       ],
-      "egoTags": : [
+      "egoTags": [
         "agressive-brake",
         "halt"
       ],
@@ -984,7 +984,7 @@
         "near-miss"
       ],
       "egoTags": [
-        "aggressive-brake"
+        "aggressive-brake",
 	"halt"
       ],
       "sceneTags": [
