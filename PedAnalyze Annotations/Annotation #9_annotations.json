@@ -45,7 +45,7 @@
         "not-cross",
         "looking",
         "run-into-traffic",
-	"retreat",
+	"retreat"
       ],
       "egoTags": [
         "Keep-speed",
@@ -190,7 +190,7 @@
         "cloudy",
         "none",
         "crosswalk",
-        "two-way",
+        "two-way"
       ],
       "archetypeTags": [
         "flock",
@@ -218,7 +218,7 @@
         "cloudy",
         "none",
         "no-crosswalk",
-        "two-way",
+        "two-way"
       ],
       "archetypeTags": [
         "flock",

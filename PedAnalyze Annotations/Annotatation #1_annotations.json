@@ -157,7 +157,7 @@
         "fall",
         "cross-without-crosswalk",
         "not-looking-glancing",
-        "cross"
+        "cross",
         "ignore-traffic"
       ],
       "egoTags": [
@@ -169,7 +169,7 @@
         "day",
         "cloudy",
         "no-crosswalk",
-        "none"
+        "none",
         "highway"
       ],
       "archetypeTags": [
@@ -351,7 +351,6 @@
         "right-turn",
         "halt"
       ],
-      ],
       "sceneTags": [
         "day",
         "sunny",
@@ -434,7 +433,7 @@
         "along-lane"
       ],
       "egoTags": [
-        "aggressive-brake"
+        "aggressive-brake",
         "halt"
       ],
       "sceneTags": [
@@ -489,7 +488,7 @@
         "cross"
       ],
       "egoTags": [
-        "aggressive-brake"
+        "aggressive-brake",
         "halt"
       ],
       "sceneTags": [
@@ -516,7 +515,7 @@
         "cross"
       ],
       "egoTags": [
-        "gradual-brake"
+        "gradual-brake",
         "halt"
       ],
       "sceneTags": [
@@ -596,7 +595,7 @@
       ],
       "egoTags": [
         "aggressive-brake",
-        "halt",
+        "halt"
       ],
       "sceneTags": [
         "day",
@@ -625,7 +624,7 @@
       ],
       "egoTags": [
         "aggressive-brake",
-        "halt",
+        "halt"
       ],
       "sceneTags": [
         "day",

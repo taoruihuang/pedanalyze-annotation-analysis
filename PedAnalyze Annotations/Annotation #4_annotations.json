@@ -117,7 +117,7 @@
         "ignore-traffic",
         "looking",
         "run-into-traffic",
-        "cross",
+        "cross"
       ],
       "egoTags": [
         "gradual-acceleration"

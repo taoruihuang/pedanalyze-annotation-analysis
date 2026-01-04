@@ -76,8 +76,7 @@
       "pedTags": [
         "looking",
         "not-cross",
-        "run-into-traffic",
-        "jaywalking"
+        "run-into-traffic"
       ],
       "egoTags": [
         "gradual-brake"
@@ -115,9 +114,7 @@
       "frameEnd": 1660,
       "pedTags": [
         "glancing",
-        "jaywalking",
-        "along-lane",
-        "wander"
+        "along-lane"
       ],
       "egoTags": [
         "swerve"
@@ -184,7 +181,6 @@
         "swerve",
         "flinch-in",
         "near-miss",
-        "distracted",
         "along-lane"
       ],
       "egoTags": [
@@ -203,7 +199,6 @@
       "pedTags": [
         "pause-start",
         "flinch-in",
-        "distracted",
         "flinch-out"
       ],
       "egoTags": [
