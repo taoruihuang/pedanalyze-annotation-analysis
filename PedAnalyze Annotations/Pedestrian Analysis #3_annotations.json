@@ -30,7 +30,8 @@
         "no-crosswalk"
       ],
       "archetypeTags": [
-        "drunk"
+        "drunk",
+	"confronted"
       ],
       "additionalNotes": ""
     },
@@ -88,7 +89,8 @@
       ],
       "archetypeTags": [
         "jaywalker",
-        "wanderer"
+        "wanderer",
+	"confronted"
       ],
       "additionalNotes": ""
     },
@@ -467,7 +469,8 @@
         "crosswalk"
       ],
       "archetypeTags": [
-        "distracted"
+        "distracted",
+	"confronted"
       ],
       "additionalNotes": ""
     },

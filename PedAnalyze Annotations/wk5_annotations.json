@@ -184,7 +184,8 @@
       ],
       "sceneTags": [],
       "archetypeTags": [
-        "distracted"
+        "distracted",
+	"confronted"
       ],
       "additionalNotes": ""
     },
@@ -208,7 +209,8 @@
         "crosswalk"
       ],
       "archetypeTags": [
-        "eventful"
+        "eventful",
+	"confronted"
       ],
       "additionalNotes": ""
     },
@@ -231,7 +233,8 @@
         "crosswalk"
       ],
       "archetypeTags": [
-        "blind"
+        "blind",
+	"confronted"
       ],
       "additionalNotes": ""
     },
@@ -282,7 +285,8 @@
         "crosswalk"
       ],
       "archetypeTags": [
-        "eventful"
+        "eventful",
+	"confronted"
       ],
       "additionalNotes": ""
     },
@@ -387,7 +391,8 @@
       ],
       "archetypeTags": [
         "blind",
-        "distracted"
+        "distracted",
+	"confronted"
       ],
       "additionalNotes": ""
     },
@@ -492,7 +497,8 @@
         "two-way"
       ],
       "archetypeTags": [
-        "jaywalker"
+        "jaywalker",
+	"confronted"
       ],
       "additionalNotes": ""
     },
@@ -616,7 +622,8 @@
         "two-way"
       ],
       "archetypeTags": [
-        "jaywalker"
+        "jaywalker",
+	"confronted"
       ],
       "additionalNotes": ""
     }

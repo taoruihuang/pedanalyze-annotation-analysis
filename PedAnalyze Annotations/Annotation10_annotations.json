@@ -35,7 +35,8 @@
       "archetypeTags": [
         "elderly",
         "wanderer",
-        "jaywalker"
+        "jaywalker",
+	"confronted"
       ],
       "additionalNotes": ""
     },
@@ -102,7 +103,8 @@
       ],
       "archetypeTags": [
         "jaywalker",
-        "eventful"
+        "eventful",
+	"confronted"
       ],
       "additionalNotes": ""
     },
@@ -304,7 +306,8 @@
       ],
       "archetypeTags": [
         "wanderer",
-        "blind"
+        "blind",
+	"confronted"
       ],
       "additionalNotes": ""
     },
@@ -400,7 +403,8 @@
       ],
       "archetypeTags": [
         "wanderer",
-        "jaywalker"
+        "jaywalker",
+	"confronted"
       ],
       "additionalNotes": ""
     },
@@ -569,7 +573,8 @@
         "jaywalker",
         "indecisive",
         "distracted",
-        "blind"
+        "blind",
+	"confronted"
       ],
       "additionalNotes": ""
     },
@@ -639,7 +644,8 @@
       "archetypeTags": [
         "con-artist",
         "wanderer",
-        "jaywalker"
+        "jaywalker",
+	"confronted"
       ],
       "additionalNotes": ""
     },
@@ -791,7 +797,8 @@
       ],
       "archetypeTags": [
         "wanderer",
-        "jaywalker"
+        "jaywalker",
+	"confronted"
       ],
       "additionalNotes": ""
     },
@@ -824,7 +831,8 @@
       ],
       "archetypeTags": [
         "wanderer",
-        "distracted"
+        "distracted",
+	"confronted"
       ],
       "additionalNotes": "Fighter"
     },
@@ -954,7 +962,8 @@
       ],
       "archetypeTags": [
         "jaywalker",
-        "protester"
+        "protester",
+	"confronted"
       ],
       "additionalNotes": "confronted"
     },
@@ -1254,7 +1263,8 @@
       ],
       "archetypeTags": [
         "jaywalker",
-        "wanderer"
+        "wanderer",
+	"confronted"
       ],
       "additionalNotes": ""
     },

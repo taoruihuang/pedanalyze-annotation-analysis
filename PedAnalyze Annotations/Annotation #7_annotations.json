@@ -440,7 +440,8 @@
       "sceneTags": [
         "night",
         "no-crosswalk",
-        "none"
+        "none",
+	"rainy"
       ],
       "archetypeTags": [
         "jaywalker",
@@ -488,7 +489,8 @@
         "near-miss",
         "ignore-traffic",
         "pop-out-occlusion",
-        "gesturing"
+        "gesturing",
+	"make-go"
       ],
       "egoTags": [
         "Keep-speed"

@@ -12,6 +12,7 @@
         "group-walk",
         "assault",
         "aggression",
+	"agitated"
         "looking",
         "near-miss"
       ],
@@ -25,7 +26,8 @@
       ],
       "archetypeTags": [
         "protester",
-        "jaywalker"
+        "jaywalker",
+	"confronted"
       ],
       "additionalNotes": ""
     },

@@ -162,7 +162,9 @@
         "moderate",
         "two-way"
       ],
-      "archetypeTags": [],
+      "archetypeTags": [
+        "confronted"
+      ],
       "additionalNotes": "no archetype"
     },
     {

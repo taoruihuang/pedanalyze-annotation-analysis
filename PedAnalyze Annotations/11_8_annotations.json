@@ -265,7 +265,8 @@
       ],
       "archetypeTags": [
         "jaywalker",
-        "eventful"
+        "eventful",
+	"confronted"
       ],
       "additionalNotes": ""
     },
@@ -486,7 +487,8 @@
         "two-way"
       ],
       "archetypeTags": [
-        "protester"
+        "protester",
+	"confronted"
       ],
       "additionalNotes": ""
     }

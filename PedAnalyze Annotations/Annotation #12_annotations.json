@@ -432,6 +432,7 @@
 	"retreat",
 	"agression",
 	"assault",
+	"agitated",
         "cross"
       ],
       "egoTags": [
@@ -446,7 +447,8 @@
         "rainy"
       ],
       "archetypeTags": [
-        "flock"
+        "flock",
+	"confronted"
       ],
       "additionalNotes": ""
     },
