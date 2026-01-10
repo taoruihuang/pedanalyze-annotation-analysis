@@ -127,7 +127,7 @@
         "aggression",
 	"retreat",
 	"drop-object",
-	"pickup-objecet"
+	"pickup-object"
       ],
       "egoTags": [
         "quick-reverse",
