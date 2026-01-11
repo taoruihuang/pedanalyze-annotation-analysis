@@ -32,7 +32,8 @@
         "green"
       ],
       "archetypeTags": [
-        "jaywalker"
+        "jaywalker",
+	"confronted"
       ],
       "additionalNotes": ""
     },
@@ -58,7 +59,8 @@
         "one-way"
       ],
       "archetypeTags": [
-        "eventful"
+        "eventful",
+	"confronted"
       ],
       "additionalNotes": ""
     },

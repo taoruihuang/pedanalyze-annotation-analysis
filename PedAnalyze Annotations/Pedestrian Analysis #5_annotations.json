@@ -221,7 +221,8 @@
       "sceneTags": [],
       "archetypeTags": [
         "flock",
-        "jaywalker"
+        "jaywalker",
+	"confronted"
       ],
       "additionalNotes": ""
     },
@@ -273,7 +274,8 @@
       ],
       "archetypeTags": [
         "flock",
-        "jaywalker"
+        "jaywalker",
+	"confronted"
       ],
       "additionalNotes": ""
     },
@@ -296,7 +298,8 @@
         "green"
       ],
       "archetypeTags": [
-        "jaywalker"
+        "jaywalker",
+	"confronted"
       ],
       "additionalNotes": ""
     },
@@ -476,7 +479,8 @@
       ],
       "archetypeTags": [
         "jaywalker",
-        "eventful"
+        "eventful",
+	"confronted"
       ],
       "additionalNotes": ""
     },

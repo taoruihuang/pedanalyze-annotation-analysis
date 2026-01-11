@@ -26,7 +26,8 @@
       ],
       "archetypeTags": [
         "drunk",
-        "eventful"
+        "eventful",
+	"confronted"
       ],
       "additionalNotes": ""
     },
@@ -196,7 +197,8 @@
       ],
       "archetypeTags": [
         "jaywalker",
-        "eventful"
+        "eventful",
+	"confronted"
       ],
       "additionalNotes": ""
     },
@@ -411,7 +413,8 @@
         "rainy"
       ],
       "archetypeTags": [
-        "eventful"
+        "eventful",
+	"confronted"
       ],
       "additionalNotes": ""
     },
@@ -557,7 +560,8 @@
         "one-way"
       ],
       "archetypeTags": [
-        "jaywalker"
+        "jaywalker",
+	"confronted"
       ],
       "additionalNotes": ""
     }

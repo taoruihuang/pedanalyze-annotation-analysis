@@ -57,7 +57,8 @@
         "one-way"
       ],
       "archetypeTags": [
-        "wanderer"
+        "wanderer",
+	"confronted"
       ],
       "additionalNotes": ""
     },
@@ -189,7 +190,8 @@
         "two-way"
       ],
       "archetypeTags": [
-        "elderly"
+        "elderly",
+	"confronted"
       ],
       "additionalNotes": ""
     },
@@ -296,7 +298,8 @@
         "light"
       ],
       "archetypeTags": [
-        "drunk"
+        "drunk",
+	"confronted"
       ],
       "additionalNotes": ""
     },

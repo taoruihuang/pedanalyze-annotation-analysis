@@ -172,7 +172,8 @@
       ],
       "archetypeTags": [
         "flock",
-        "jaywalker"
+        "jaywalker",
+	"confronted"
       ],
       "additionalNotes": ""
     },
@@ -202,7 +203,8 @@
       ],
       "archetypeTags": [
         "eventful",
-	      "flock"
+	"flock",
+	"confronted"
       ],
       "additionalNotes": ""
     }

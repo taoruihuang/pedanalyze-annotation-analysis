@@ -166,7 +166,9 @@
         "light",
         "one-way"
       ],
-      "archetypeTags": [],
+      "archetypeTags": [
+        "confronted"
+      ],
       "additionalNotes": ""
     },
     {
@@ -196,7 +198,8 @@
         "drunk",
         "jaywalker",
         "flock",
-        "blind"
+        "blind",
+	"confronted"
       ],
       "additionalNotes": ""
     },

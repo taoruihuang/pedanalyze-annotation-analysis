@@ -15,7 +15,8 @@
 	"pause-start",
 	"frozen",
         "crosswalk-detour",
-        "aggression"
+        "aggression",
+	"agitated"
       ],
       "egoTags": [
         "gradual-brake",
@@ -29,7 +30,8 @@
         "crossing-sign"
       ],
       "archetypeTags": [
-        "drunk"
+        "drunk",
+	"confronted"
       ],
       "additionalNotes": ""
     },
@@ -217,7 +219,8 @@
         "dancing",
         "cross-without-crosswalk",
         "gesturing",
-        "along-lane"
+        "along-lane",
+	"agitated"
       ],
       "egoTags": [],
       "sceneTags": [
@@ -230,7 +233,8 @@
       "archetypeTags": [
         "wanderer",
         "drunk",
-        "jaywalker"
+        "jaywalker",
+	"confronted"
       ],
       "additionalNotes": ""
     },
@@ -243,7 +247,8 @@
         "assault",
         "looking",
         "not-cross",
-	"fall"
+	"fall",
+	"agitated"
       ],
       "egoTags": [],
       "sceneTags": [
@@ -257,7 +262,8 @@
         "drunk",
         "jaywalker",
         "parked-pedestrian",
-        "eventful"
+        "eventful",
+	"confronted"
       ],
       "additionalNotes": ""
     }
