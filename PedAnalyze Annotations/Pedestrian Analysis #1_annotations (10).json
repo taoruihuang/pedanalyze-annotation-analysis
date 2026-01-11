@@ -30,7 +30,7 @@
         "rainy"
       ],
       "archetypeTags": [
-        "fighter",
+        "confronted",
         "jaywalker",
         "wanderer",
         "distracted"
@@ -266,7 +266,7 @@
       ],
       "archetypeTags": [
         "drunk",
-        "fighter",
+        "confronted",
         "parked-pedestrian"
       ],
       "additionalNotes": ""
@@ -444,7 +444,7 @@
       "sceneTags": [],
       "archetypeTags": [
         "eventful",
-        "fighter",
+        "confronted",
         "kid",
         "wanderer",
         "influencer"
