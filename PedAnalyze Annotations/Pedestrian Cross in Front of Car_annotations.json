@@ -12,7 +12,11 @@
         "cautious"
       ],
       "egoTags": [],
-      "sceneTags": [],
+      "sceneTags": [
+        "night",
+        "green",
+        "light"
+      ],
       "archetypeTags": [],
       "additionalNotes": ""
     },
@@ -38,36 +42,14 @@
         "ignore-traffic"
       ],
       "egoTags": [],
-      "sceneTags": [],
+      "sceneTags": [
+        "night",
+        "green",
+        "light"
+      ],
       "archetypeTags": [
         "flash"
       ],
-      "additionalNotes": ""
-    }
-  ],
-  "singleFrameAnnotations": [
-    {
-      "frame": 55,
-      "pedTags": [],
-      "egoTags": [],
-      "sceneTags": [
-        "night",
-        "green",
-        "light"
-      ],
-      "archetypeTags": [],
-      "additionalNotes": ""
-    },
-    {
-      "frame": 124,
-      "pedTags": [],
-      "egoTags": [],
-      "sceneTags": [
-        "night",
-        "green",
-        "light"
-      ],
-      "archetypeTags": [],
       "additionalNotes": ""
     }
   ]

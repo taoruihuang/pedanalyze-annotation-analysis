@@ -26,8 +26,12 @@
         "cross-on-red"
       ],
       "egoTags": [],
-      "sceneTags": [],
-      "archetypeTags": [],
+      "sceneTags":  [
+        "night",
+        "red",
+        "light"
+      ],
+      "archetypeTags": ["indecisive"],
       "additionalNotes": ""
     },
     {
@@ -43,22 +47,6 @@
       ],
       "sceneTags": [],
       "archetypeTags": [],
-      "additionalNotes": ""
-    }
-  ],
-  "singleFrameAnnotations": [
-    {
-      "frame": 0,
-      "pedTags": [],
-      "egoTags": [],
-      "sceneTags": [
-        "night",
-        "red",
-        "light"
-      ],
-      "archetypeTags": [
-        "indecisive"
-      ],
       "additionalNotes": ""
     }
   ]

@@ -30,18 +30,6 @@
       "egoTags": [
         "gradual-brake"
       ],
-      "sceneTags": [],
-      "archetypeTags": [
-        "jaywalker"
-      ],
-      "additionalNotes": ""
-    }
-  ],
-  "singleFrameAnnotations": [
-    {
-      "frame": 233,
-      "pedTags": [],
-      "egoTags": [],
       "sceneTags": [
         "day",
         "sunny",
@@ -49,7 +37,9 @@
         "crosswalk",
         "green"
       ],
-      "archetypeTags": [],
+      "archetypeTags": [
+        "jaywalker"
+      ],
       "additionalNotes": ""
     }
   ]

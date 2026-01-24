@@ -30,25 +30,13 @@
         "group-walk"
       ],
       "egoTags": [],
-      "sceneTags": [],
-      "archetypeTags": [],
-      "additionalNotes": "Cross street in many groups"
-    }
-  ],
-  "singleFrameAnnotations": [
-    {
-      "frame": 0,
-      "pedTags": [],
-      "egoTags": [],
       "sceneTags": [
         "night",
-        "heavy",
-        "red"
+        "green",
+        "light"
       ],
-      "archetypeTags": [
-        "flock"
-      ],
-      "additionalNotes": ""
+      "archetypeTags": ["flock"],
+      "additionalNotes": "Cross street in many groups"
     }
   ]
 }
