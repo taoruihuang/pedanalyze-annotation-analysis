@@ -27,6 +27,109 @@
         "flash"
       ],
       "additionalNotes": ""
+    }, 
+    {
+      "frameStart": 3260,
+      "frameEnd": 3700,
+      "pedTags": [
+        "group-walk",
+        "brisk-walk",
+        "pause-start",
+        "cross",
+        "run-into-traffic",
+        "not-looking-glancing",
+        "pop-out-occlusion"
+      ],
+      "egoTags": [
+        "aggressive-brake",
+        "gradual-acceleration"
+      ],
+      "sceneTags": [
+        "day",
+        "snowy",
+        "green"
+      ],
+      "archetypeTags": [
+        "flash",
+        "jaywalker"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 4867,
+      "frameEnd": 5390,
+      "pedTags": [
+        "group-walk",
+        "trip",
+        "crawling",
+        "not-cross",
+        "run-into-traffic",
+        "fall",
+        "retreat",
+        "cross-without-crosswalk"
+      ],
+      "egoTags": [
+        "aggressive-brake"
+      ],
+      "sceneTags": [
+        "night",
+        "one-way",
+        "no-crosswalk",
+        "rainy"
+      ],
+      "archetypeTags": [
+        "eventful"
+      ],
+      "additionalNotes": ""
+    },
+    {
+      "frameStart": 5400,
+      "frameEnd": 5641,
+      "pedTags": [
+        "near-miss",
+        "looking",
+        "cross",
+        "ignore-traffic"
+      ],
+      "egoTags": [
+        "aggressive-brake",
+        "sidewalk"
+      ],
+      "sceneTags": [
+        "day",
+        "crosswalk"
+      ],
+      "archetypeTags": [
+        "kid"
+      ],
+      "additionalNotes": "The non-chalant "
+    },
+    {
+      "frameStart": 6369,
+      "frameEnd": 6595,
+      "pedTags": [
+        "brisk-walk",
+        "cross",
+        "frozen",
+        "fall",
+        "cross-without-crosswalk",
+        "pop-out-occlusion",
+        "collision",
+        "thrown-back"
+      ],
+      "egoTags": [
+        "aggressive-brake"
+      ],
+      "sceneTags": [
+        "day",
+        "cloudy",
+        "no-crosswalk"
+      ],
+      "archetypeTags": [
+        "jaywalker",
+        "flash"
+      ],
+      "additionalNotes": ""
     }
   ],
   "singleFrameAnnotations": []
