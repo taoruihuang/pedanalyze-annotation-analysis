@@ -119,7 +119,7 @@
         "ignore-traffic"
       ],
       "egoTags": [
-        "agressive-brake",
+        "aggressive-brake",
         "halt"
       ],
       "sceneTags": [
@@ -533,7 +533,7 @@
         "near-miss"
       ],
       "egoTags": [
-        "agressive-break",
+        "aggressive-brake",
 	"halt"
       ],
       "sceneTags": [
@@ -559,7 +559,7 @@
         "cross-without-crosswalk"
       ],
       "egoTags": [
-        "agressive-break",
+        "aggressive-brake",
         "halt"
       ],
       "sceneTags": [
@@ -949,7 +949,7 @@
 	"gesturing"
       ],
       "egoTags": [
-        "agressive-brake",
+        "aggressive-brake",
         "halt"
       ],
       "sceneTags": [
